@@ -1,0 +1,2498 @@
+{
+    "": {
+        "domain": "jupyterlab",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "3.0.0b4"
+    },
+    "\nConnected: %1": [
+        "\nConnecté: %1"
+    ],
+    "\nCreated: %1": [
+        "\nCréé: %1"
+    ],
+    "\nLast Execution: %1": [
+        "\nDernière exécution: %1"
+    ],
+    "\nModified: %1": [
+        "\nModifié le : %1"
+    ],
+    "\nPath: %1": [
+        "\nChemin : %1"
+    ],
+    "\nSize: %1": [
+        "\nTaille: %1"
+    ],
+    "\nWritable: %1": [
+        "\nInscriptible: %1"
+    ],
+    "\"%1\" already exists, overwrite?": [
+        "\"%1\" existe déjà, l'écraser ?"
+    ],
+    "\"%1\" already exists. Do you want to replace it?": [
+        "\"%1\" existe déjà. Voulez-vous le remplacer?"
+    ],
+    "\"%1\" has changed on disk since the last time it was opened or saved.\nDo you want to overwrite the file on disk with the version open here, \nor load the version on disk (revert)?": [
+        "\"%1\" a changé sur le disque depuis la dernière fois qu'il a été ouvert ou enregistré.\nVoulez-vous écraser le fichier sur le disque avec la version ouverte ici,\nou charger la version sur le disque (rétablir) ?"
+    ],
+    "\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\"": [
+        "\"%1\" n'est pas un nom valide pour un fichier. Les noms doivent avoir une longueur non nulle, et ne peuvent pas inclure \"/\", \"\\\", ou \":\""
+    ],
+    "%1\nKernel: %2": [
+        "%1\nNoyau: %2"
+    ],
+    "%1 (Developed by Project Jupyter)": [
+        "%1 (Développé par le Projet Jupyter)"
+    ],
+    "%1 extension has been blockedExtensions since install. Please uninstall immediately and contact your blockedExtensions administrator.": [
+        "L'extension %1 a été blockedExtensions depuis l'installation. Veuillez la désinstaller immédiatement et contacter votre administrateur blockedExtensions."
+    ],
+    "%1 extension has been removed from the allowedExtensions since installation. Please uninstall immediately and contact your allowedExtensions administrator.": [
+        "L'extension %1 a été supprimée de l'extension allowedExtensions depuis l'installation. Veuillez la désinstaller immédiatement et contacter l'administrateur allowedExtensions ."
+    ],
+    "%1 Item": [
+        "%1 élément",
+        "%1 éléments"
+    ],
+    "%1 log entries for %2": [
+        "%1 entrées du journal pour %2"
+    ],
+    "%1 new messages, %2 log entries for %3": [
+        "%1 nouveaux messages, %2 entrées de journal pour %3"
+    ],
+    "%1 Terminals, %2 Kernel sessions": [
+        "%1 terminaux, %2 sessions de noyau"
+    ],
+    "A build is needed to include the latest changes": [
+        "Une compilation est nécessaire pour inclure les derniers changements"
+    ],
+    "A connection to the Jupyter server could not be established.\nJupyterLab will continue trying to reconnect.\nCheck your network connection or Jupyter server configuration.\n": [
+        "Une connexion au serveur Jupyter n'a pas pu être établie.\nJupyterLab va continuer à essayer de se reconnecter.\nVérifiez votre connexion réseau ou la configuration du serveur Jupyter.\n"
+    ],
+    "A trusted Jupyter notebook may execute hidden malicious code when you openit.": [
+        "Un notebook Jupyter de confiance pourrait exécuter du code malveillant lorsque vous l'ouvrez."
+    ],
+    "abcdef": [
+        "abcdef"
+    ],
+    "About %1": [
+        "À propos de %1"
+    ],
+    "ABOUT PROJECT JUPYTER": [
+        "A PROPOS DU PROJET JUPYTER"
+    ],
+    "About the %1 Kernel": [
+        "A propos du noyau %1"
+    ],
+    "Activate Command Palette": [
+        "Activer la palette de commandes"
+    ],
+    "Activate Next Tab": [
+        "Activer l'onglet suivant"
+    ],
+    "Activate Next Tab Bar": [
+        "Activer la Barre d'onglets suivante"
+    ],
+    "Activate Previous Tab": [
+        "Activer l'onglet précédent"
+    ],
+    "Activate Previous Tab Bar": [
+        "Activer la barre d'onglets précédente"
+    ],
+    "Activate Previously Used Tab": [
+        "Activer l'onglet précédent"
+    ],
+    "Active cell trusted: %1 of %2 cells trusted.": [
+        "Cellules actives de confiance: %1 sur %2 cellules fiables."
+    ],
+    "Add Checkpoint": [
+        "Ajouter un point de contrôle"
+    ],
+    "Add Tag": [
+        "Ajouter une étiquette"
+    ],
+    "Advanced Settings Editor": [
+        "Configuration avancée"
+    ],
+    "Advanced Tools": [
+        "Outils avancés"
+    ],
+    "An error occurred installing <code>%1</code>.": [
+        "Une erreur s'est produite lors de l'installation de <code>%1</code>."
+    ],
+    "Any errors will be listed here": [
+        "Toutes les erreurs seront listées ici"
+    ],
+    "Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
+        "Êtes-vous sûr de vouloir exécuter Javascript arbitraire dans votre session JupyterLab?"
+    ],
+    "Are you sure you want to close \"%1\"?": [
+        "Êtes-vous sûr de vouloir fermer \"%1\"?"
+    ],
+    "Are you sure you want to delete %1": [
+        "Êtes-vous sûr de vouloir supprimer %1"
+    ],
+    "Are you sure you want to exit JupyterLab?\n\nAny unsaved changes will be lost.": [
+        "Êtes-vous sûr de vouloir quitter JupyterLab?\n\nToutes les modifications non enregistrées seront perdues."
+    ],
+    "Are you sure you want to permanently delete the %1 selected item?": [
+        "Êtes-vous sûr de vouloir supprimer définitivement l'élément sélectionné %1?",
+        "Êtes-vous sûr de vouloir supprimer définitivement les éléments sélectionnés %1?"
+    ],
+    "Are you sure you want to permanently delete: %1?": [
+        "Êtes-vous sûr(e) de vouloir supprimer définitivement %1 ?"
+    ],
+    "Are you sure you want to refresh?": [
+        "Êtes-vous sûr(e) de vouloir actualiser ?"
+    ],
+    "Are you sure you want to reload the %1 from the disk?": [
+        "Êtes-vous sûr de vouloir recharger le %1 depuis le disque ?"
+    ],
+    "Are you sure you want to revert the %1 to the latest checkpoint? ": [
+        "Êtes-vous sûr de vouloir revenir au dernier point de contrôle de %1? "
+    ],
+    "Auto Close Brackets for Text Editor": [
+        "Fermer automatiquement les parenthèses dans l'éditeur de texte"
+    ],
+    "Autosave Documents": [
+        "Enregistrement automatique des documents"
+    ],
+    "Autosave Interval": [
+        "Intervalle entre les sauvegardes automatiques"
+    ],
+    "base16-dark": [
+        "base16-sombre"
+    ],
+    "base16-light": [
+        "base16-clair"
+    ],
+    "Breakpoints": [
+        "Points d'arrêt"
+    ],
+    "Build": [
+        "Compiler"
+    ],
+    "Build Complete": [
+        "Compilation terminée"
+    ],
+    "Build Failed": [
+        "Échec de la compilation"
+    ],
+    "Build Recommended": [
+        "Compilation recommandé"
+    ],
+    "Build successfully completed, reload page?": [
+        "Compilation terminée avec succès, recharger la page?"
+    ],
+    "Callstack": [
+        "Callstack"
+    ],
+    "Cancel": [
+        "Annuler"
+    ],
+    "Cannot Download": [
+        "Téléchargement impossible"
+    ],
+    "Cannot open": [
+        "Ouverture impossible"
+    ],
+    "Cannot Reload": [
+        "Ne peut pas recharger"
+    ],
+    "Cannot Revert": [
+        "Impossible de revenir en arrière"
+    ],
+    "Cannot Save": [
+        "Enregistrement impossible"
+    ],
+    "Cannot upload file (>%1 MB). %2": [
+        "Impossible de charger le fichier (>%1 Mo). %2"
+    ],
+    "Cell Metadata": [
+        "Métadonnées de la cellule"
+    ],
+    "Cell type": [
+        "Type de cellule"
+    ],
+    "Change interface language?": [
+        "Changer la langue de l'interface ?"
+    ],
+    "Change kernel for %1": [
+        "Changer de noyau pour %1"
+    ],
+    "Change Kernel…": [
+        "Changer de noyau…"
+    ],
+    "Change Tab indentation…": [
+        "Modifier l'indentation des onglets…"
+    ],
+    "Change text editor syntax highlighting": [
+        "Modifier la coloration syntaxique de l'éditeur de texte"
+    ],
+    "Change to Code Cell Type": [
+        "Changer pour le type de cellule Code"
+    ],
+    "Change to Heading 1": [
+        "Changer pour le Titre 1"
+    ],
+    "Change to Heading 2": [
+        "Changer pour le Titre 2"
+    ],
+    "Change to Heading 3": [
+        "Changer pour le Titre 3"
+    ],
+    "Change to Heading 4": [
+        "Changer pour le Titre 4"
+    ],
+    "Change to Heading 5": [
+        "Changer pour le Titre 5"
+    ],
+    "Change to Heading 6": [
+        "Changer pour le Titre 6"
+    ],
+    "Change to Markdown Cell Type": [
+        "Changer pour le type de cellule Markdown"
+    ],
+    "Change to Raw Cell Type": [
+        "Changer pour le type de cellule Raw"
+    ],
+    "Clear": [
+        "Supprimer"
+    ],
+    "Clear All": [
+        "Tout supprimer"
+    ],
+    "Clear All Outputs": [
+        "Effacer toutes les sorties"
+    ],
+    "Clear Console Cell": [
+        "Effacer la cellule de la console"
+    ],
+    "Clear Console Cells": [
+        "Effacer les cellules de la console"
+    ],
+    "Clear Filters": [
+        "Effacer les filtres"
+    ],
+    "Clear Log": [
+        "Effacer le journal"
+    ],
+    "Clear Output": [
+        "Effacer la sortie"
+    ],
+    "Clear Outputs": [
+        "Effacer les sorties"
+    ],
+    "Clear Workspace": [
+        "Nettoyer l'espace de travail"
+    ],
+    "Click on a function to see documentation.": [
+        "Cliquez sur une fonction pour voir la documentation."
+    ],
+    "Close All Other Tabs": [
+        "Fermer tous les autres onglets"
+    ],
+    "Close All Tabs": [
+        "Fermer tous les onglets"
+    ],
+    "Close and Shut Down": [
+        "Fermer et Arrêter"
+    ],
+    "Close and Shut Down…": [
+        "Fermer et Arrêter…"
+    ],
+    "Close and Shutdown": [
+        "Fermer et Arrêter"
+    ],
+    "Close and Shutdown Notebook": [
+        "Fermer et arrêter le notebook"
+    ],
+    "Close Tab": [
+        "Fermer l'onglet"
+    ],
+    "Close Tabs to Right": [
+        "Fermer les onglets à droite"
+    ],
+    "Code": [
+        "Code"
+    ],
+    "Code Cell Configuration": [
+        "Configuration des cellules de code"
+    ],
+    "Code Editor out of Sync": [
+        "Éditeur de code désynchronisé"
+    ],
+    "codemirror": [
+        "codemirror"
+    ],
+    "Collapse All Code": [
+        "Réduire tout le code"
+    ],
+    "Collapse All Outputs": [
+        "Réduire toutes les sorties"
+    ],
+    "Collapse Selected Code": [
+        "Réduire le code sélectionné"
+    ],
+    "Collapse Selected Outputs": [
+        "Réduire les sorties sélectionnées"
+    ],
+    "Command Palette": [
+        "Palette de commandes"
+    ],
+    "Commands": [
+        "Commandes"
+    ],
+    "Commands (%1)": [
+        "Commandes (%1)"
+    ],
+    "Commit changes to data": [
+        "Valider les modifications des données"
+    ],
+    "Complete!": [
+        "Terminé!"
+    ],
+    "Console": [
+        "Console"
+    ],
+    "Console %1": [
+        "Console %1"
+    ],
+    "Console Run Keystroke": [
+        "Combinaison de touches pour lancer la console"
+    ],
+    "Continue": [
+        "Continuer"
+    ],
+    "CONTRIBUTOR LIST": [
+        "LISTE DES CONTRIBUTEURS"
+    ],
+    "Copy": [
+        "Copier"
+    ],
+    "Copy Cells": [
+        "Copier les cellules"
+    ],
+    "Copy Download Link": [
+        "Copier le lien de téléchargement"
+    ],
+    "Copy Path": [
+        "Copier le chemin"
+    ],
+    "Copy Shareable Link": [
+        "Copier le lien partageable"
+    ],
+    "Copy the selected cells": [
+        "Copier les cellules sélectionnées"
+    ],
+    "Could not find path: %1": [
+        "Impossible de trouver le chemin : %1"
+    ],
+    "Create a new markdown file": [
+        "Créer un nouveau fichier markdown"
+    ],
+    "Create a new notebook": [
+        "Créer un nouveau notebook"
+    ],
+    "Create a new text file": [
+        "Créer un nouveau fichier texte"
+    ],
+    "Create Console for Editor": [
+        "Créer une console pour l'éditeur"
+    ],
+    "Create New View for Output": [
+        "Créer une nouvelle vue pour la sortie"
+    ],
+    "Critical": [
+        "Critique"
+    ],
+    "CSV File": [
+        "Fichier CSV"
+    ],
+    "Ctrl-C": [
+        "Ctrl + C"
+    ],
+    "Current mem usage": [
+        "Utilisation actuelle de la mémoire"
+    ],
+    "Custom": [
+        "Personnalisé"
+    ],
+    "Cut": [
+        "Couper"
+    ],
+    "Cut Cells": [
+        "Couper les cellules"
+    ],
+    "Cut the selected cells": [
+        "Couper les cellules sélectionnées"
+    ],
+    "Dark": [
+        "Sombre"
+    ],
+    "Debug": [
+        "Déboguer"
+    ],
+    "Debugger": [
+        "Débogueur"
+    ],
+    "Decrease Code Font Size": [
+        "Diminuer la taille de police du code"
+    ],
+    "Decrease Content Font Size": [
+        "Diminuer la taille de police du contenu"
+    ],
+    "Decrease Font Size": [
+        "Réduire la taille de police"
+    ],
+    "Decrease Terminal Font Size": [
+        "Diminuer la taille de police du terminal"
+    ],
+    "Decrease Text Editor Font Size": [
+        "Diminuer la taille de police de l'éditeur de texte"
+    ],
+    "Decrease UI Font Size": [
+        "Diminuer la taille de police de l'interface"
+    ],
+    "default": [
+        "défaut"
+    ],
+    "Default cell type": [
+        "Type de cellule par défaut"
+    ],
+    "Default Viewers": [
+        "Visionneurs par défaut"
+    ],
+    "Delete": [
+        "Supprimer"
+    ],
+    "Delete %1": [
+        "Supprimer %1"
+    ],
+    "Delete Cells": [
+        "Supprimer des cellules"
+    ],
+    "Delimiter: ": [
+        "Délimiteur: "
+    ],
+    "Deselect All Cells": [
+        "Désélectionner toutes les cellules"
+    ],
+    "Details:": [
+        "Détails:"
+    ],
+    "Directory": [
+        "Dossier"
+    ],
+    "Directory not found": [
+        "Dossier introuvable"
+    ],
+    "Directory not found: \"%1\"": [
+        "Répertoire introuvable: \"%1\""
+    ],
+    "Directory: %1\n": [
+        "Répertoire %1\n"
+    ],
+    "Disable": [
+        "Désactiver"
+    ],
+    "Disable Scrolling for Outputs": [
+        "Désactiver le défilement pour les sorties"
+    ],
+    "Discard": [
+        "Annuler"
+    ],
+    "Disclaimed Status": [
+        "Statut de renonciation"
+    ],
+    "Discover": [
+        "Découvrir"
+    ],
+    "Dismiss": [
+        "Passer"
+    ],
+    "Display localized strings prefix": [
+        "Afficher le préfixe des chaînes localisées"
+    ],
+    "Distrust HTML": [
+        "Se méfier du HTML"
+    ],
+    "Do you want to leave without saving?": [
+        "Vous voulez quitter sans enregistrer ?"
+    ],
+    "Do you want to restart the current kernel? All variables will be lost.": [
+        "Voulez-vous redémarrer le noyau actuel? Toutes les variables seront perdues."
+    ],
+    "Document is read-only": [
+        "Le document est en lecture seule"
+    ],
+    "Download": [
+        "Télécharger"
+    ],
+    "Download the file to your computer": [
+        "Télécharger le fichier sur votre ordinateur"
+    ],
+    "Duplicate": [
+        "Dupliquer"
+    ],
+    "Edit": [
+        "Éditer"
+    ],
+    "Editor": [
+        "Éditeur"
+    ],
+    "Editor Configuration": [
+        "Configuration de l'éditeur"
+    ],
+    "emacs": [
+        "emacs"
+    ],
+    "Enable": [
+        "Activer"
+    ],
+    "Enable / Disable Debugger": [
+        "Activer / Désactiver le débogueur"
+    ],
+    "Enable Extension Manager": [
+        "Activer le gestionnaire d'extensions"
+    ],
+    "Enable Extension Manager?": [
+        "Activer le gestionnaire d'extensions ?"
+    ],
+    "Enable Scrolling for Outputs": [
+        "Activer le défilement pour les sorties"
+    ],
+    "Enabled Status": [
+        "Statut activé"
+    ],
+    "Enter Command Mode": [
+        "Passer en mode commande"
+    ],
+    "Enter Edit Mode": [
+        "Passer en mode édition"
+    ],
+    "Error": [
+        "Erreur"
+    ],
+    "Error\u0004Launcher Error": [
+        "Erreur du lanceur"
+    ],
+    "Error communicating with server extension. Consult the documentation\n            for how to ensure that it is enabled.": [
+        "Erreur de communication avec l'extension du serveur. Consultez la documentation\n            pour savoir comment vous assurer qu'elle est activée."
+    ],
+    "Error Loading Theme": [
+        "Erreur lors du chargement du thème"
+    ],
+    "Error message:": [
+        "Message d'erreur :"
+    ],
+    "Error Registering Plugins": [
+        "Erreur lors de l'enregistrement des plugins"
+    ],
+    "Error Starting Kernel": [
+        "Erreur lors du démarrage du noyau"
+    ],
+    "Executable Script": [
+        "Script exécutable"
+    ],
+    "Execute with Enter": [
+        "Exécuter avec Entrée"
+    ],
+    "Execute with Shift+Enter": [
+        "Exécuter avec Maj + Entrée"
+    ],
+    "Expand All Code": [
+        "Développer tout le code"
+    ],
+    "Expand All Outputs": [
+        "Développer toutes les sorties"
+    ],
+    "Expand Selected Code": [
+        "Développer le code sélectionné"
+    ],
+    "Expand Selected Outputs": [
+        "Développer les sorties sélectionnées"
+    ],
+    "Export Notebook As…": [
+        "Exporter le notebook sous…"
+    ],
+    "Export Notebook: %1": [
+        "Exporter le notebook: %1"
+    ],
+    "Extend Selection Above": [
+        "Étendre la sélection au dessus"
+    ],
+    "Extend Selection Below": [
+        "Étendre la sélection en dessous"
+    ],
+    "Extend Selection to Bottom": [
+        "Étendre la sélection à la fin"
+    ],
+    "Extend Selection to Top": [
+        "Étendre la sélection au début"
+    ],
+    "Extension Installation Error": [
+        "Erreur d’installation de l’extension"
+    ],
+    "Extension Manager": [
+        "Gestionnaire d'extensions"
+    ],
+    "File": [
+        "Fichier"
+    ],
+    "File Browser": [
+        "Explorateur de fichiers"
+    ],
+    "File Browser (%1)": [
+        "Explorateur de fichiers (%1)"
+    ],
+    "File Changed": [
+        "Fichier modifié"
+    ],
+    "File Load Error for %1": [
+        "Erreur de chargement de fichier pour %1"
+    ],
+    "File Operations": [
+        "Opérations sur les fichiers"
+    ],
+    "File Overwrite?": [
+        "Écraser le fichier ?"
+    ],
+    "File Path": [
+        "Chemin du fichier"
+    ],
+    "File Save Error for %1": [
+        "Erreur d'enregistrement du fichier pour %1"
+    ],
+    "Files still uploading": [
+        "Fichiers en cours de chargement"
+    ],
+    "Filter files by name": [
+        "Filtrer les fichiers par nom"
+    ],
+    "Filter on file name with a fuzzy search": [
+        "Filtrer sur le nom du fichier avec une recherche floue"
+    ],
+    "Filter...": [
+        "Filtre..."
+    ],
+    "Find": [
+        "Rechercher"
+    ],
+    "Find and Replace…": [
+        "Rechercher et remplacer…"
+    ],
+    "Find Next": [
+        "Rechercher suivant"
+    ],
+    "Find Previous": [
+        "Rechercher le précédent"
+    ],
+    "Find...": [
+        "Rechercher..."
+    ],
+    "Find…": [
+        "Rechercher…"
+    ],
+    "Flip image horizontally": [
+        "Miroir horizontal"
+    ],
+    "Flip image vertically": [
+        "Miroir vertical"
+    ],
+    "Font Family": [
+        "Famille de polices"
+    ],
+    "Font family": [
+        "Famille de polices"
+    ],
+    "Font Size": [
+        "Taille de police"
+    ],
+    "Font size": [
+        "Taille des caractères"
+    ],
+    "For more information, see the <a href=\"https://jupyter-server.readthedocs.io/en/stable/operators/security.html\">%1</a>": [
+        "Pour plus d'informations, voir le <a href=\"https://jupyter-server.readthedocs.io/en/stable/operators/security.html\">%1</a>"
+    ],
+    "For Notebook:": [
+        "Pour le notebook:"
+    ],
+    "For Notebook: %1": [
+        "Pour le notebook: %1"
+    ],
+    "Fragment": [
+        "Fragment"
+    ],
+    "Go to Line": [
+        "Aller à la ligne"
+    ],
+    "Go to line number between 1 and %1": [
+        "Aller au numéro de ligne entre 1 et %1"
+    ],
+    "Go to line number…": [
+        "Aller au numéro de ligne…"
+    ],
+    "Go to Line...": [
+        "Aller à la ligne..."
+    ],
+    "Go to Line…": [
+        "Aller à la ligne…"
+    ],
+    "Handle Local Link": [
+        "Gérer le lien local"
+    ],
+    "hash": [
+        "hachage"
+    ],
+    "Help": [
+        "Aide"
+    ],
+    "Hide Front Matter": [
+        "Cacher le Préambule"
+    ],
+    "hopscotch": [
+        "hopscotch"
+    ],
+    "HTML": [
+        "HTML"
+    ],
+    "HTML File": [
+        "Fichier HTML"
+    ],
+    "HTML Viewer": [
+        "Visionneuse HTML"
+    ],
+    "Hub": [
+        "Hub"
+    ],
+    "Hub Control Panel": [
+        "Panneau de contrôle du Hub"
+    ],
+    "Ignore": [
+        "Ignorer"
+    ],
+    "Image": [
+        "Image"
+    ],
+    "Image Viewer": [
+        "Visionneuse d’images"
+    ],
+    "Increase Code Font Size": [
+        "Augmenter la taille de police du code"
+    ],
+    "Increase Content Font Size": [
+        "Augmenter la taille de police du contenu"
+    ],
+    "Increase Font Size": [
+        "Augmenter la taille de police"
+    ],
+    "Increase Terminal Font Size": [
+        "Augmenter la taille de police du terminal"
+    ],
+    "Increase Text Editor Font Size": [
+        "Augmenter la taille de police de l'éditeur de texte"
+    ],
+    "Increase UI Font Size": [
+        "Augmenter la taille de police de l'interface"
+    ],
+    "Indent with Tab": [
+        "Indenter avec des tabulations"
+    ],
+    "Info": [
+        "Infos"
+    ],
+    "Inherit": [
+        "Hériter"
+    ],
+    "Insert a cell below": [
+        "Insérer une cellule en-dessous"
+    ],
+    "Insert Cell Above": [
+        "Insérer une cellule au dessus"
+    ],
+    "Insert Cell Below": [
+        "Insérer une cellule en-dessous"
+    ],
+    "Insert Line Break": [
+        "Insérer un saut de ligne"
+    ],
+    "Inspect Variable": [
+        "Inspecter la variable"
+    ],
+    "Install": [
+        "Installer"
+    ],
+    "Install the JupyterLab extension.": [
+        "Installez l'extension JupyterLab."
+    ],
+    "Installed": [
+        "Installée"
+    ],
+    "Interaction mode": [
+        "Mode d'interaction"
+    ],
+    "Interrupt Kernel": [
+        "Interrompre le noyau"
+    ],
+    "Interrupt the kernel": [
+        "Interrompre le noyau"
+    ],
+    "Invert Colors": [
+        "Inverser les couleurs"
+    ],
+    "JavaScript output is disabled in JupyterLab": [
+        "La sortie JavaScript est désactivée dans JupyterLab"
+    ],
+    "JSON File": [
+        "Fichier JSON"
+    ],
+    "jupyter": [
+        "jupyter"
+    ],
+    "Jupyter Reference": [
+        "Référence JupyterLab"
+    ],
+    "Jupyter security documentation": [
+        "Documentation de sécurité Jupyter"
+    ],
+    "JupyterLab build is suggested:": [
+        "La version JupyterLab est suggérée :"
+    ],
+    "JupyterLab Dark": [
+        "JupyterLab Sombre"
+    ],
+    "JupyterLab FAQ": [
+        "FAQ JupyterLab"
+    ],
+    "JupyterLab Light": [
+        "JupyterLab Clair"
+    ],
+    "JupyterLab Reference": [
+        "Référence JupyterLab"
+    ],
+    "JupyterLab Theme": [
+        "Thème JupyterLab"
+    ],
+    "JupyterLab workspace File": [
+        "Fichier d'espace de travail JupyterLab"
+    ],
+    "Keep Waiting": [
+        "Continuer à attendre"
+    ],
+    "Kernel": [
+        "Noyau"
+    ],
+    "Kernel %1": [
+        "Noyau %1"
+    ],
+    "Kernel and Server Companions": [
+        "Compagnons Kernel et Serveur"
+    ],
+    "Kernel Companions": [
+        "Compagnons du noyau"
+    ],
+    "Kernel Id:": [
+        "Identifiant du noyau:"
+    ],
+    "Kernel Name:": [
+        "Nom du noyau :"
+    ],
+    "Kernel Operations": [
+        "Opérations sur le Noyau"
+    ],
+    "Kernel Restarting": [
+        "Redémarrage en cours du noyau"
+    ],
+    "Kernel Terminating": [
+        "Fermeture du noyau"
+    ],
+    "Kernel: %1": [
+        "Noyau: %1"
+    ],
+    "Kernels": [
+        "Noyaux"
+    ],
+    "Key Map": [
+        "Carte des touches"
+    ],
+    "Language": [
+        "Langue"
+    ],
+    "Language locale": [
+        "Langue locale"
+    ],
+    "Large file size warning": [
+        "Avertissement sur la taille du fichier volumineux"
+    ],
+    "Last Checkpoint: %1": [
+        "Dernier point de contrôle : %1"
+    ],
+    "Last Modified": [
+        "Dernière Modification"
+    ],
+    "Last Saved: %1\n": [
+        "Dernière sauvegarde : %1\n"
+    ],
+    "LaTeX": [
+        "LaTeX"
+    ],
+    "Launch Classic Notebook": [
+        "Lancer un notebook classique"
+    ],
+    "Launcher": [
+        "Lanceur"
+    ],
+    "Light": [
+        "Clair"
+    ],
+    "Line Height": [
+        "Hauteur de ligne"
+    ],
+    "Line height": [
+        "Hauteur de ligne"
+    ],
+    "Line Numbers": [
+        "Numéros de ligne"
+    ],
+    "Line Width": [
+        "Largeur de ligne"
+    ],
+    "Live updating code documentation from the active kernel": [
+        "Documentation du code de mise à jour en direct depuis le noyau actif"
+    ],
+    "Ln %1, Col %2": [
+        "Ln %1, Col %2"
+    ],
+    "Loading...": [
+        "Chargement ..."
+    ],
+    "Localized strings prefix": [
+        "Préfixe de chaînes localisées"
+    ],
+    "Log Console": [
+        "Console de journal"
+    ],
+    "Log entry count limit": [
+        "Limite de nombre d'entrée de log"
+    ],
+    "Log level": [
+        "Niveau de log"
+    ],
+    "Log Level:": [
+        "Niveau du journal :"
+    ],
+    "Log Out": [
+        "Se déconnecter"
+    ],
+    "Log out of JupyterLab": [
+        "Se déconnecter de JupyterLab"
+    ],
+    "Log out of the Hub": [
+        "Se déconnecter du Hub"
+    ],
+    "Log: %1": [
+        "Log : %1"
+    ],
+    "Main Area": [
+        "Zone principale"
+    ],
+    "Markdown": [
+        "Markdown"
+    ],
+    "Markdown Cell Configuration": [
+        "Configuration des cellules Markdown"
+    ],
+    "Markdown File": [
+        "Fichier Markdown"
+    ],
+    "Markdown Preview": [
+        "Afficher l'aperçu du Markdown"
+    ],
+    "Markdown Reference": [
+        "Référence Markdown"
+    ],
+    "Match Brackets": [
+        "Mettre en évidence les parenthèses correspondantes"
+    ],
+    "material": [
+        "matériel"
+    ],
+    "mbo": [
+        "mbo"
+    ],
+    "mdn-like": [
+        "mdn-like"
+    ],
+    "Mem: %1 %2": [
+        "Mem: %1 %2"
+    ],
+    "Mem: %1 / %2 %3": [
+        "Mem: %1 / %2 %3"
+    ],
+    "Merge Selected Cells": [
+        "Fusionner les cellules sélectionnées"
+    ],
+    "Mode: %1": [
+        "Mode : %1"
+    ],
+    "Move Cells Down": [
+        "Déplacer les cellules vers le bas"
+    ],
+    "Move Cells Up": [
+        "Déplacer les cellules vers le haut"
+    ],
+    "Move Error": [
+        "Erreur lors du déplacement"
+    ],
+    "Name": [
+        "Nom"
+    ],
+    "Name:": [
+        "Nom:"
+    ],
+    "Name: %1": [
+        "Nom: %1"
+    ],
+    "Name: %1\n": [
+        "Nom: %1\n"
+    ],
+    "Name: %1\nPath: %2\n": [
+        "Nom : %1\nChemin : %2\n"
+    ],
+    "Navigate to current directory": [
+        "Naviguer vers le répertoire actuel"
+    ],
+    "Neither theme %1 nor default %2 loaded.": [
+        "Ni le thème %1 ni le thème par défaut %2 n'ont été chargés."
+    ],
+    "New": [
+        "Nouveau"
+    ],
+    "New Console": [
+        "Nouvelle console"
+    ],
+    "New Console for Activity": [
+        "Nouvelle console pour l'activité"
+    ],
+    "New Console for Notebook": [
+        "Nouvelle console pour le notebook"
+    ],
+    "New File": [
+        "Nouveau fichier"
+    ],
+    "New Folder": [
+        "Nouveau dossier"
+    ],
+    "New Launcher": [
+        "Nouveau Lanceur"
+    ],
+    "New Markdown File": [
+        "Nouveau fichier Markdown"
+    ],
+    "New Name": [
+        "Nouveau nom"
+    ],
+    "New Notebook": [
+        "Nouveau notebook"
+    ],
+    "New Terminal": [
+        "Nouveau Terminal"
+    ],
+    "New Text File": [
+        "Nouveau fichier texte"
+    ],
+    "New View for %1": [
+        "Nouvelle vue pour %1"
+    ],
+    "Next": [
+        "Suivant"
+    ],
+    "No browser for path": [
+        "Aucun navigateur pour le chemin"
+    ],
+    "No context found for current widget!": [
+        "Aucun contexte trouvé pour le widget actuel!"
+    ],
+    "No data!": [
+        "Aucune donnée!"
+    ],
+    "No entries": [
+        "Aucune entrée"
+    ],
+    "No errors found": [
+        "Aucune erreur trouvée"
+    ],
+    "No Kernel": [
+        "Aucun noyau"
+    ],
+    "No Kernel!": [
+        "Aucun noyau!"
+    ],
+    "No log messages.": [
+        "Aucun message de journal."
+    ],
+    "No properties to inspect.": [
+        "Aucune propriété à inspecter."
+    ],
+    "No source selected.": [
+        "Aucune source sélectionnée."
+    ],
+    "No Tags Available": [
+        "Pas de balise disponible"
+    ],
+    "Note: To disable a system default shortcut,\ncopy it to User Preferences and add the\n\"disabled\" key, for example:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\": true\n}\n\nList of commands followed by keyboard shortcuts:\n%1\n\nList of keyboard shortcuts:": [
+        "Remarque : Pour désactiver un raccourci par défaut du système,\ncopiez-le dans les préférences utilisateur et ajoutez le paramètre\n\"disabled\", par exemple:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\" : true\n}\n\nListe des commandes suivies des raccourcis clavier :\n%1\n\nListe des raccourcis clavier :"
+    ],
+    "Notebook": [
+        "Bloc-notes"
+    ],
+    "Notebook Cell Operations": [
+        "Opérations des cellules du notebook"
+    ],
+    "Notebook converted": [
+        "Notebook converti"
+    ],
+    "Notebook is already trusted": [
+        "Le notebook est déjà de confiance"
+    ],
+    "Notebook is in %1 mode": [
+        "Le notebook est en mode %1"
+    ],
+    "Notebook Metadata": [
+        "Métadonnées du notebook"
+    ],
+    "Notebook not trusted: %1 of %2 cells trusted.": [
+        "Notebook non fiable: %1 sur %2 cellules fiables."
+    ],
+    "Notebook Operations": [
+        "Opérations du notebook"
+    ],
+    "Notebook Tools": [
+        "Outils du notebook"
+    ],
+    "Notebook trusted: %1 of %2 cells trusted.": [
+        "Notebook de confiance : %1 sur %2 cellules fiables."
+    ],
+    "Notes": [
+        "Remarques"
+    ],
+    "OK": [
+        "OK"
+    ],
+    "Ok": [
+        "Ok"
+    ],
+    "Open": [
+        "Ouvrir"
+    ],
+    "Open %1": [
+        "Ouvrir %1"
+    ],
+    "Open Edit Menu": [
+        "Ouvrir le menu Édition"
+    ],
+    "Open Error": [
+        "Erreur lors de l'ouverture"
+    ],
+    "Open File Menu": [
+        "Ouvrir le menu Fichier"
+    ],
+    "Open First Menu": [
+        "Ouvrir le premier menu"
+    ],
+    "Open from path": [
+        "Ouvrir depuis le chemin d'accès"
+    ],
+    "Open from Path…": [
+        "Ouvrir à partir du chemin…"
+    ],
+    "Open Help Menu": [
+        "Ouvrir le menu Aide"
+    ],
+    "Open in New Browser Tab": [
+        "Ouvrir dans un nouvel onglet de navigation"
+    ],
+    "Open in the Main Area": [
+        "Ouvrir dans la zone principale"
+    ],
+    "Open Kernel Menu": [
+        "Ouvrir le menu Noyau"
+    ],
+    "Open Path": [
+        "Ouvrir le Chemin"
+    ],
+    "Open Run Menu": [
+        "Ouvrir le menu Exécuter"
+    ],
+    "Open Settings Menu": [
+        "Ouvrir le menu Paramètres"
+    ],
+    "Open Tabs": [
+        "Onglets ouverts"
+    ],
+    "Open Tabs Menu": [
+        "Ouvrir le menu Onglets"
+    ],
+    "Open the Hub control panel in a new browser tab": [
+        "Ouvrez le panneau de configuration du Hub dans un nouvel onglet du navigateur"
+    ],
+    "Open View Menu": [
+        "Ouvrir le menu Affichage"
+    ],
+    "Open With": [
+        "Ouvrir avec"
+    ],
+    "Other": [
+        "Autre"
+    ],
+    "Overrides": [
+        "Substitutions"
+    ],
+    "Overrides for the default viewers for file types.\nSpecify a mapping from file type name to document viewer name, for example:\n\ndefaultViewers: {\n  markdown: \"Markdown Preview\"\n}\n\nIf you specify non-existent file types or viewers, or if a viewer cannot\nopen a given file type, the override will not function.\n\nAvailable viewers:\n%1\n\nAvailable file types:\n%2": [
+        "Remplace les afficheurs par défaut pour les types de fichiers.\nSpécifiez un mappage du nom du type de fichier au nom de la visionneuse du document, par exemple :\n\ndefaultViewers: {\n  markdown: \"Markdown Preview\"\n}\n\nSi vous spécifiez des types de fichiers ou des visualisateurs inexistants, ou si une visionneuse ne peut pas\nouvrir un type de fichier donné, la substitution ne fonctionnera pas.\n\nVisualisateurs disponibles :\n%1\n\nTypes de fichiers disponibles :\n%2"
+    ],
+    "Overwrite": [
+        "Écraser"
+    ],
+    "Overwrite file?": [
+        "Écraser le fichier ?"
+    ],
+    "Paste": [
+        "Coller"
+    ],
+    "Paste Cells Above": [
+        "Coller les cellules ci-dessus"
+    ],
+    "Paste Cells and Replace": [
+        "Coller les cellules et remplacer"
+    ],
+    "Paste Cells Below": [
+        "Coller les cellules ci-dessous"
+    ],
+    "Paste cells from the clipboard": [
+        "Coller les cellules depuis le presse-papiers"
+    ],
+    "Paste with Ctrl+V": [
+        "Coller avec Ctrl+V"
+    ],
+    "Path": [
+        "Chemin d'accès"
+    ],
+    "Path Not Found": [
+        "Chemin d'accès introuvable"
+    ],
+    "Path:": [
+        "Chemin d'accès:"
+    ],
+    "Path: %1\nKernel: %2": [
+        "Chemin : %1\nNoyau: %2"
+    ],
+    "PDF": [
+        "PDF"
+    ],
+    "PDF File": [
+        "Fichier PDF"
+    ],
+    "pipe": [
+        "tuyau"
+    ],
+    "Please confirm you want to shut down JupyterLab.": [
+        "Veuillez confirmer que vous voulez arrêter JupyterLab."
+    ],
+    "Please open your browser JavaScript console for bug report instructions": [
+        "Veuillez ouvrir la console JavaScript de votre navigateur pour les instructions de rapport de bogue"
+    ],
+    "Presentation Mode": [
+        "Mode Présentation"
+    ],
+    "Print...": [
+        "Imprimer..."
+    ],
+    "Property Inspector": [
+        "Inspecteur de propriétés"
+    ],
+    "Python File": [
+        "Fichier Python"
+    ],
+    "R File": [
+        "Fichier R"
+    ],
+    "Raw": [
+        "Brut"
+    ],
+    "Raw Cell Configuration": [
+        "Configuration des cellules brutes"
+    ],
+    "Raw NBConvert Format": [
+        "Format brut NBConvert"
+    ],
+    "Read more in the JupyterLab documentation.": [
+        "Pour en savoir plus, consultez la documentation de JupyterLab."
+    ],
+    "Read-only": [
+        "Lecture seule"
+    ],
+    "Reason given:": [
+        "Raison donnée:"
+    ],
+    "Rebuild": [
+        "Recompiler"
+    ],
+    "Reconnect To Kernel": [
+        "Reconnexion au noyau"
+    ],
+    "Recording timing": [
+        "Horodatage de l'enregistrement"
+    ],
+    "Redo": [
+        "Rétablir"
+    ],
+    "Redo Cell Operation": [
+        "Refaire l'opération de cellule"
+    ],
+    "Refresh extension list": [
+        "Rafraîchir la liste des extensions"
+    ],
+    "Refresh File List": [
+        "Actualiser la liste des fichiers"
+    ],
+    "Refresh List": [
+        "Actualiser la liste"
+    ],
+    "Refresh Terminal": [
+        "Actualiser le terminal"
+    ],
+    "Refresh the current terminal session": [
+        "Rafraîchir la session du terminal actuel"
+    ],
+    "Reload": [
+        "Recharger"
+    ],
+    "Reload %1 from Disk": [
+        "Recharger %1 depuis le disque"
+    ],
+    "Reload contents from disk": [
+        "Recharger le contenu à partir du disque"
+    ],
+    "Reload Without Saving": [
+        "Recharger sans enregistrer"
+    ],
+    "Remove All Breakpoints": [
+        "Supprimer tous les points d’arrêt"
+    ],
+    "Rename": [
+        "Renommer"
+    ],
+    "Rename %1…": [
+        "Renommer %1…"
+    ],
+    "Rename Error": [
+        "Erreur lors du renommage"
+    ],
+    "Rename File": [
+        "Renommer le fichier"
+    ],
+    "Render All Markdown Cells": [
+        "Effectuer le rendu de toutes les cellules Markdown"
+    ],
+    "Render Timeout": [
+        "Délai d'expiration pour le Rendu"
+    ],
+    "Renderer Failure: %1": [
+        "Échec du rendu : %1"
+    ],
+    "Replace": [
+        "Remplacer"
+    ],
+    "Replace All": [
+        "Tout remplacer"
+    ],
+    "Replace Selection in Console": [
+        "Remplacer la sélection dans la console"
+    ],
+    "Replace Selection in Editor": [
+        "Remplacer la sélection dans l'éditeur"
+    ],
+    "Replace Selection in Notebook Cell": [
+        "Remplacer la sélection dans la cellule du notebook"
+    ],
+    "Request that the Hub restart this server": [
+        "Demander au Hub de redémarrer ce serveur"
+    ],
+    "Rerender HTML Document": [
+        "Réexécuter un rendu du document HTML"
+    ],
+    "Reset Application State": [
+        "Réinitialiser l'état de l'application"
+    ],
+    "Reset Image": [
+        "Réinitialiser l'image"
+    ],
+    "Restart": [
+        "Redémarrer"
+    ],
+    "Restart Kernel and Clear All Outputs…": [
+        "Redémarrer le noyau et effacer toutes les sorties…"
+    ],
+    "Restart Kernel and Clear Console": [
+        "Redémarrer le noyau et effacer la console"
+    ],
+    "Restart Kernel and Clear…": [
+        "Redémarrer le noyau et effacer…"
+    ],
+    "Restart Kernel and Run All": [
+        "Redémarrer le noyau et exécuter tout le code"
+    ],
+    "Restart Kernel and Run All Cells…": [
+        "Redémarrer le noyau et exécuter toutes les cellules…"
+    ],
+    "Restart Kernel and Run All Code": [
+        "Redémarrer le noyau et exécuter tout le code"
+    ],
+    "Restart Kernel and Run up to Selected Cell…": [
+        "Redémarrez le noyau et exécutez jusqu'à la cellule sélectionnée…"
+    ],
+    "Restart Kernel?": [
+        "Redémarrer le noyau ?"
+    ],
+    "Restart Kernel…": [
+        "Redémarrer le noyau…"
+    ],
+    "Restart Server": [
+        "Redémarrer le serveur"
+    ],
+    "Restart the kernel": [
+        "Redémarrer le noyau"
+    ],
+    "Restart the kernel, then re-run the whole notebook": [
+        "Redémarrez le noyau, puis réexécutez tout le notebook"
+    ],
+    "ReStructured Text": [
+        "Texte ReStructured"
+    ],
+    "Reveal.js Slides": [
+        "Diapositives Reveal.js"
+    ],
+    "Revert": [
+        "Rétablir"
+    ],
+    "Revert %1 to Checkpoint": [
+        "Rétablir %1 au Point de Contrôle"
+    ],
+    "Revert %1 to checkpoint": [
+        "Rétablir %1 au Point de Contrôle"
+    ],
+    "Revert changes to data": [
+        "Rétablir les changements aux données"
+    ],
+    "Revert contents to previous checkpoint": [
+        "Rétablir le contenu au point de contrôle précédent"
+    ],
+    "Revert User Settings": [
+        "Revenir aux paramètres de l'utilisateur"
+    ],
+    "Rotate Clockwise": [
+        "Rotation horaire"
+    ],
+    "Rotate Counterclockwise": [
+        "Rotation anti-horaire"
+    ],
+    "Run": [
+        "Executer"
+    ],
+    "Run All": [
+        "Exécuter tout"
+    ],
+    "Run All Above Selected Cell": [
+        "Exécuter toutes les cellules sélectionnées ci-dessus"
+    ],
+    "Run All Cells": [
+        "Exécuter toutes les cellules"
+    ],
+    "Run All Code": [
+        "Exécuter tout le code"
+    ],
+    "Run Cell": [
+        "Exécuter la cellule"
+    ],
+    "Run Cell (forced)": [
+        "Exécuter la cellule (forcée)"
+    ],
+    "Run Cell (unforced)": [
+        "Exécuter la cellule (non forcée)"
+    ],
+    "Run Code": [
+        "Exécuter le Code"
+    ],
+    "Run First Enabled Command": [
+        "Exécuter la première commande activée"
+    ],
+    "Run Selected": [
+        "Exécuter la sélection"
+    ],
+    "Run Selected Cell and All Below": [
+        "Exécuter la cellule sélectionnée et toutes celles en-dessous"
+    ],
+    "Run Selected Cells": [
+        "Exécuter les cellules sélectionnées"
+    ],
+    "Run Selected Cells and Don't Advance": [
+        "Exécuter les cellules sélectionnées et ne pas avancer"
+    ],
+    "Run Selected Cells and Insert Below": [
+        "Exécuter les cellules sélectionnées et insérer ci-dessous"
+    ],
+    "Run Selected Text or Current Line in Console": [
+        "Exécuter le texte sélectionné ou la ligne actuelle dans la console"
+    ],
+    "Run the selected cells and advance": [
+        "Exécuter les cellules sélectionnées et avancer"
+    ],
+    "Running Terminals and Kernels": [
+        "Terminaux et noyaux en cours d'exécution"
+    ],
+    "Save": [
+        "Sauvegarder"
+    ],
+    "Save %1": [
+        "Sauvegarder %1"
+    ],
+    "Save %1 As…": [
+        "Enregistrer %1 sous…"
+    ],
+    "Save All": [
+        "Tout enregistrer"
+    ],
+    "Save all open documents": [
+        "Enregistrer tous les documents ouverts"
+    ],
+    "Save and create checkpoint": [
+        "Enregistrer et créer un point de contrôle"
+    ],
+    "Save and Reload": [
+        "Sauvegarder et Actualiser"
+    ],
+    "Save as": [
+        "Enregistrer sous"
+    ],
+    "Save changes in \"%1\" before closing?": [
+        "Enregistrer les modifications dans \"%1\" avant de fermer ?"
+    ],
+    "Save Current Workspace": [
+        "Enregistrer l'espace de travail actuel"
+    ],
+    "Save Current Workspace As...": [
+        "Enregistrer l'espace de travail actuel sous..."
+    ],
+    "Save Failed": [
+        "Échec de l'enregistrement"
+    ],
+    "Save File As..": [
+        "Enregistrer le fichier sous..."
+    ],
+    "Save the notebook contents and create checkpoint": [
+        "Enregistrer le contenu du notebook et créer un point de contrôle"
+    ],
+    "Save User Settings": [
+        "Enregistrer les paramètres de l'utilisateur"
+    ],
+    "Save with new path": [
+        "Enregistrer avec un nouveau chemin"
+    ],
+    "Save your work": [
+        "Enregistrer votre travail"
+    ],
+    "Saving %1": [
+        "Sauvegarde de %1"
+    ],
+    "schema\u0004Add a prefix to localized strings.": [
+        "Ajouter un préfixe aux chaînes localisées."
+    ],
+    "schema\u0004Add accessibility elements for use with screen readers.": [
+        "Ajouter des éléments d'accessibilité à utiliser avec les lecteurs d'écran."
+    ],
+    "schema\u0004Application ": [
+        "Application "
+    ],
+    "schema\u0004Application-level visual styling theme": [
+        "Thème de style visuel au niveau de l'application"
+    ],
+    "schema\u0004Code Console": [
+        "Console de code"
+    ],
+    "schema\u0004Code Console settings.": [
+        "Paramètres de la console de code."
+    ],
+    "schema\u0004CodeMirror": [
+        "CodeMirror"
+    ],
+    "schema\u0004Command Palette": [
+        "Palette de commandes"
+    ],
+    "schema\u0004Command palette settings.": [
+        "Paramètres de la palette de commandes."
+    ],
+    "schema\u0004Configures the keymap to use": [
+        "Configure la carte des touches à utiliser"
+    ],
+    "schema\u0004Console Completer": [
+        "Compléteur de console"
+    ],
+    "schema\u0004Console completer settings.": [
+        "Paramètres de compléteur de la console."
+    ],
+    "schema\u0004Console tooltip settings.": [
+        "Paramètres d'info-bulle de la console."
+    ],
+    "schema\u0004Console Tooltips": [
+        "Info-bulles de la console"
+    ],
+    "schema\u0004CSS file defining the corresponding\n.cm-s-[name] styles is loaded": [
+        "Le fichier CSS définissant les styles\n.cm-s-[name] correspondants est chargé"
+    ],
+    "schema\u0004Debugger": [
+        "Débogueur"
+    ],
+    "schema\u0004Debugger settings": [
+        "Paramètres du débogueur"
+    ],
+    "schema\u0004Display the `stringsPrefix` on localized strings.": [
+        "Affiche le `stringsPrefix` sur les chaînes localisées."
+    ],
+    "schema\u0004Document Manager": [
+        "Gestionnaire de documents"
+    ],
+    "schema\u0004Document Manager settings.": [
+        "Paramètres du gestionnaire de documents."
+    ],
+    "schema\u0004Document Search": [
+        "Recherche de document"
+    ],
+    "schema\u0004Document search plugin.": [
+        "Plugin de recherche de documents."
+    ],
+    "schema\u0004Enable pasting with Ctrl+V.  This can be disabled to use Ctrl+V in the vi editor, for instance.  This setting has no effect on macOS, where Cmd+V is available": [
+        "Activer le collage avec Ctrl+V. Cela peut être désactivé pour utiliser Ctrl+V dans l'éditeur vi, par exemple. Ce paramètre n'a aucun effet sur macOS, où Cmd+V est disponible"
+    ],
+    "schema\u0004Enable/disable styling of the application scrollbars": [
+        "Activer/désactiver le style des barres de défilement de l'application"
+    ],
+    "schema\u0004Enables extension manager (requires Node.js/npm).\nWARNING: installing untrusted extensions may be unsafe.": [
+        "Active le gestionnaire d'extension (nécessite Node.js/npm).\nATTENTION : installer des extensions non fiables peut être dangereux."
+    ],
+    "schema\u0004Extension Manager": [
+        "Gestionnaire d'extensions"
+    ],
+    "schema\u0004Extension manager settings.": [
+        "Paramètres du gestionnaire d'extensions."
+    ],
+    "schema\u0004File Browser": [
+        "Explorateur de fichiers"
+    ],
+    "schema\u0004File Browser settings.": [
+        "Paramètres du navigateur de fichiers."
+    ],
+    "schema\u0004File Editor Completer": [
+        "Compléteur de l'éditeur de fichiers"
+    ],
+    "schema\u0004File editor completer settings.": [
+        "Paramètres du compléteur de l'éditeur de fichiers."
+    ],
+    "schema\u0004File editor tooltip settings.": [
+        "Paramètres d'info-bulle de l'éditeur de fichiers."
+    ],
+    "schema\u0004File Editor Tooltips": [
+        "Info-bulles de l'éditeur de fichiers"
+    ],
+    "schema\u0004Image Viewer": [
+        "Visionneuse d’images"
+    ],
+    "schema\u0004Image viewer settings.": [
+        "Paramètres de la visionneuse d'image."
+    ],
+    "schema\u0004Inspector": [
+        "Inspecteur"
+    ],
+    "schema\u0004Inspector settings.": [
+        "Paramètres de l'inspecteur."
+    ],
+    "schema\u0004Keyboard shortcut settings.": [
+        "Paramètres des raccourcis clavier."
+    ],
+    "schema\u0004Keyboard Shortcuts": [
+        "Raccourcis clavier"
+    ],
+    "schema\u0004Language": [
+        "Langue"
+    ],
+    "schema\u0004Language settings.": [
+        "Paramètres de langue."
+    ],
+    "schema\u0004Launcher": [
+        "Lanceur"
+    ],
+    "schema\u0004Launcher settings.": [
+        "Paramètres du lanceur."
+    ],
+    "schema\u0004Length of save interval in seconds": [
+        "Durée entre deux sauvegardes en secondes"
+    ],
+    "schema\u0004Log Console": [
+        "Console de log"
+    ],
+    "schema\u0004Log Console settings.": [
+        "Paramètre de la console de log."
+    ],
+    "schema\u0004Main JupyterLab application settings.": [
+        "Paramètres principaux de l'application JupyterLab."
+    ],
+    "schema\u0004Main JupyterLab menu settings.": [
+        "Paramètres du menu principal de JupyterLab."
+    ],
+    "schema\u0004Main Menu": [
+        "Menu principal"
+    ],
+    "schema\u0004Markdown Viewer": [
+        "Visualiseur Markdown"
+    ],
+    "schema\u0004Markdown viewer settings.": [
+        "Paramètres du visualiseur Markdown."
+    ],
+    "schema\u0004Maximum number of log entries to store in memory": [
+        "Nombre maximum d'entrées de journal à stocker en mémoire"
+    ],
+    "schema\u0004Notebook": [
+        "Notebook"
+    ],
+    "schema\u0004Notebook Completer": [
+        "Completer du Notebook"
+    ],
+    "schema\u0004Notebook completer settings.": [
+        "Paramètres de compléteur du notebook."
+    ],
+    "schema\u0004Notebook settings.": [
+        "Paramètres du bloc-notes."
+    ],
+    "schema\u0004Notebook tooltip settings.": [
+        "Paramètres d'info-bulle de bloc-notes."
+    ],
+    "schema\u0004Notebook Tooltips": [
+        "Info-bulles de bloc-notes"
+    ],
+    "schema\u0004Option key on macOS can be used as meta key. This enables to use shortcuts such as option + f to move cursor forward one word": [
+        "La touche \"option\" sur macOS peut être utilisée comme touche de combinaison. Cela permet d'utiliser des raccourcis tels que \"option + f\" pour avancer le curseur d'un mot"
+    ],
+    "schema\u0004Override theme CSS variables by setting key-value pairs here": [
+        "Remplacer les variables CSS du thème en définissant les paires clé-valeur ici"
+    ],
+    "schema\u0004Overrides for the default viewers for file types": [
+        "Remplace les afficheurs par défaut pour les types de fichiers"
+    ],
+    "schema\u0004Overrides for where to show sidebar items\ne.g., {\"tab-manager\": \"right\"}": [
+        "Substitue pour où afficher les éléments de la barre latérale\npar exemple, {\"tab-manager\": \"right\"}"
+    ],
+    "schema\u0004Print": [
+        "Imprimer"
+    ],
+    "schema\u0004Print settings.": [
+        "Paramètres d'impression."
+    ],
+    "schema\u0004Set the interface display language. Examples: 'es_CO', 'fr'.": [
+        "Définit la langue d'affichage de l'interface. Exemples: 'es_CO', 'fr'."
+    ],
+    "schema\u0004Setting Editor": [
+        "Éditeur de paramètres"
+    ],
+    "schema\u0004Setting editor settings.": [
+        "Paramètres de l'éditeur de paramètres."
+    ],
+    "schema\u0004Should timing data be recorded in cell metadata": [
+        "Les données de chronométrage doivent-elles être enregistrées dans les métadonnées de cellule"
+    ],
+    "schema\u0004Shut down the session when closing the terminal.": [
+        "Arrêter la session lors de la fermeture du terminal."
+    ],
+    "schema\u0004Sidebar": [
+        "Barre latérale"
+    ],
+    "schema\u0004Sidebar layout settings.": [
+        "Paramètres de disposition de la barre latérale."
+    ],
+    "schema\u0004Status Bar": [
+        "Barre d'état"
+    ],
+    "schema\u0004Status Bar settings.": [
+        "Paramètres de la barre d'état."
+    ],
+    "schema\u0004Terminal": [
+        "Terminal"
+    ],
+    "schema\u0004Terminal settings.": [
+        "Paramètres du terminal."
+    ],
+    "schema\u0004Text Editor": [
+        "Éditeur de texte"
+    ],
+    "schema\u0004Text editor settings for all CodeMirror editors.": [
+        "Paramètres de l'éditeur de texte pour tous les éditeurs CodeMirror."
+    ],
+    "schema\u0004Text editor settings.": [
+        "Paramètres de l'éditeur de texte."
+    ],
+    "schema\u0004The amount of scrollback beyond initial viewport": [
+        "La quantité de défilement arrière au-delà de la fenêtre de visualisation initiale"
+    ],
+    "schema\u0004The configuration for all code cells.": [
+        "Configuration pour toutes les cellules de code."
+    ],
+    "schema\u0004The configuration for all markdown cells.": [
+        "La configuration pour toutes les cellules markdown."
+    ],
+    "schema\u0004The configuration for all raw cells.": [
+        "La configuration pour toutes les cellules brutes."
+    ],
+    "schema\u0004The configuration for all text editors.\nIf `fontFamily`, `fontSize` or `lineHeight` are `null`,\nvalues from current theme are used.": [
+        "La configuration pour tous les éditeurs de texte.\nSi `fontFamily`, `fontSize` ou `lineHeight` sont `null`,\nles valeurs du thème actuel sont utilisées."
+    ],
+    "schema\u0004The default type (markdown, code, or raw) for new cells": [
+        "Type par défaut des nouvelles cellules (markdown, code, ou brut)"
+    ],
+    "schema\u0004The font family used to render markdown.\nIf `null`, value from current theme is used.": [
+        "Police utilisée pour rendre le markdown.\nSi `null`, la valeur du thème courant est utilisée."
+    ],
+    "schema\u0004The font family used to render text.": [
+        "Famille de polices utilisée pour afficher le texte."
+    ],
+    "schema\u0004The font size used to render text.": [
+        "Taille de police utilisée pour afficher le texte."
+    ],
+    "schema\u0004The line height used to render markdown.\nIf `null`, value from current theme is used.": [
+        "La hauteur de ligne utilisée pour le rendu markdown.\nSi `null`, la valeur du thème actuel est utilisée."
+    ],
+    "schema\u0004The line height used to render text.": [
+        "La hauteur de ligne utilisée pour afficher le texte."
+    ],
+    "schema\u0004The list of keyboard shortcuts.": [
+        "Liste des raccourcis clavier."
+    ],
+    "schema\u0004The render timeout in milliseconds.": [
+        "Délai maximum avant d'abandonner le rendu en millisecondes."
+    ],
+    "schema\u0004The size in pixel of the font used to render markdown.\nIf `null`, value from current theme is used.": [
+        "La taille en pixel de la police utilisée pour le rendu markdown.\nSi `null`, la valeur du thème actuel est utilisée."
+    ],
+    "schema\u0004The text line width expressed in CSS ch units.\nIf `null`, lines fit the viewport width.": [
+        "La largeur de la ligne de texte exprimée en unités CSS ch.\nSi `null`, les lignes correspondent à la largeur de la fenêtre."
+    ],
+    "schema\u0004The theme for the terminal.": [
+        "Thème du terminal."
+    ],
+    "schema\u0004Theme": [
+        "Thème"
+    ],
+    "schema\u0004Theme manager settings.": [
+        "Paramètres du gestionnaire de thèmes."
+    ],
+    "schema\u0004Value is boolean": [
+        "La valeur est booléenne"
+    ],
+    "schema\u0004Value is boolean or string, e.g. 'pointer'": [
+        "La valeur est un booléen ou une chaîne, par exemple «pointeur»"
+    ],
+    "schema\u0004Value is boolean, or { nonEmpty: boolean }": [
+        "La valeur est booléenne, ou { nonEmpty: boolean }"
+    ],
+    "schema\u0004Variables to filter out in the tree and table viewers": [
+        "Variables à filtrer dans l'arborescence et les tableaux"
+    ],
+    "schema\u0004When enabled, which is the default, doing copy or cut when there is no selection will copy or cut the whole lines that have cursors on them.": [
+        "Si actif, ce qui est la valeur par défaut, faire une copie ou une coupe lorsqu'il n'y a pas de sélection copiera ou coupera les lignes entières sur lesquelles des curseurs sont positionnés."
+    ],
+    "schema\u0004Whether the console defaults to showing all\nkernel activity or just kernel activity originating from itself.": [
+        "Si la console affiche par défaut toutes les activités du noyau\nou seulement celles provenant de cette console."
+    ],
+    "schema\u0004Whether the console interaction mimics the notebook\nor terminal keyboard shortcuts.": [
+        "Si l'interaction avec la console imite le notebook\nou les raccourcis clavier du terminal."
+    ],
+    "schema\u0004Whether the user understand that extensions managed through this interface run arbitrary code that may be dangerous": [
+        "Si l'utilisateur comprend ou non que les extensions gérées par cette interface exécutent du code arbitraire qui peut être dangereux"
+    ],
+    "schema\u0004Whether to apply fuzzy algorithm while filtering on file names": [
+        "Appliquer ou non un algorithme flou lors du filtrage sur les noms de fichiers"
+    ],
+    "schema\u0004Whether to automatically navigate to a document's current directory": [
+        "Si vous souhaitez naviguer automatiquement vers le répertoire courant d'un document"
+    ],
+    "schema\u0004Whether to autosave documents": [
+        "S'il faut enregistrer automatiquement les documents"
+    ],
+    "schema\u0004Whether to be able to scroll so the last cell is at the top of the panel": [
+        "Si l'on peut faire défiler la dernière cellule en haut du panneau"
+    ],
+    "schema\u0004Whether to flash on new log message or not": [
+        "S'il faut flasher ou non pour un nouveau message de journal"
+    ],
+    "schema\u0004Whether to hide YAML front matter.\nThe YAML front matter must be placed at the top of the document,\nstarted by a line of three dashes (---) and ended by a line of\nthree dashes (---) or three points (...).": [
+        "S'il faut cacher le préambule en YAML.\nLe préambule en YAML doit être placé au début du document,\ncommençant par une ligne avec trois tirets (---), et finissant par une ligne\navec trois tirets (---) ou trois point (...)."
+    ],
+    "schema\u0004Whether to scroll past the end of text document": [
+        "Défiler ou non au-delà de la fin du document"
+    ],
+    "schema\u0004Whether to show status bar or not": [
+        "Afficher/Masquer la barre d'état"
+    ],
+    "schema\u0004Whether to shut down or not the kernel when closing a notebook.": [
+        "Fermer ou non le noyau lors de la fermeture d'un bloc-notes."
+    ],
+    "Screen Reader Mode": [
+        "Mode lecture d'écran"
+    ],
+    "Script": [
+        "Script"
+    ],
+    "Scroll behavior": [
+        "Comportement du défilement"
+    ],
+    "Scroll past last cell": [
+        "Défiler après la dernière cellule"
+    ],
+    "Scrollback Buffer": [
+        "Tampon de défilement arrière"
+    ],
+    "Scrollbar Theming": [
+        "Thème de la barre de défilement"
+    ],
+    "SEARCH": [
+        "RECHERCHER"
+    ],
+    "Search on File Names": [
+        "Rechercher dans les noms de fichiers"
+    ],
+    "Search Results": [
+        "Résultats de la recherche"
+    ],
+    "Select": [
+        "Sélectionner"
+    ],
+    "Select a plugin from the list to view and edit its preferences.": [
+        "Sélectionnez un plugin dans la liste pour afficher et modifier ses préférences."
+    ],
+    "Select All": [
+        "Tout sélectionner"
+    ],
+    "Select All Cells": [
+        "Sélectionner toutes les cellules"
+    ],
+    "Select Cell Above": [
+        "Sélectionner la cellule au dessus"
+    ],
+    "Select Cell Below": [
+        "Sélectionner la cellule en dessous"
+    ],
+    "Select current running or last run cell": [
+        "Sélectionnez la cellule en cours d'exécution ou la dernière exécution"
+    ],
+    "Select Kernel": [
+        "Sélectionnez le noyau"
+    ],
+    "Select kernel for:": [
+        "Sélectionnez le noyau pour:"
+    ],
+    "Selected Theme": [
+        "Thème choisi"
+    ],
+    "Selecting trust will re-render this notebook in a trusted state.": [
+        "En sélectionnant la confiance, ce notebook sera rendu à nouveau dans un état de confiance."
+    ],
+    "Selection Pointer": [
+        "Pointeur de sélection"
+    ],
+    "Server Companion": [
+        "Compagnon du serveur"
+    ],
+    "Server Connection Error": [
+        "Erreur de connexion au serveur"
+    ],
+    "Server Not Running": [
+        "Le serveur n'est pas en cours d'exécution"
+    ],
+    "Server stopped": [
+        "Server arrêté"
+    ],
+    "Set Log Level to %1": [
+        "Définir le niveau du journal à %1"
+    ],
+    "Set the terminal theme": [
+        "Définissez le thème du terminal"
+    ],
+    "seti": [
+        "seti"
+    ],
+    "Settings": [
+        "Paramètres"
+    ],
+    "Shift+Right Click for Browser Menu": [
+        "Maj+Clic droit pour le menu de navigation"
+    ],
+    "Show Active File in File Browser": [
+        "Afficher le fichier actif dans le navigateur de fichiers"
+    ],
+    "Show All Kernel Activity": [
+        "Afficher toute l'activité du noyau"
+    ],
+    "Show Contextual Help": [
+        "Afficher l'aide contextuelle"
+    ],
+    "Show in File Browser": [
+        "Ouvrir dans l'explorateur de fichier"
+    ],
+    "Show Left Sidebar": [
+        "Afficher la barre latérale gauche"
+    ],
+    "Show Line Numbers": [
+        "Afficher les numéros de ligne"
+    ],
+    "Show Log Console": [
+        "Montrer la console"
+    ],
+    "Show Markdown Editor": [
+        "Montrer l'éditeur Markdown"
+    ],
+    "Show Markdown Preview": [
+        "Afficher l'aperçu du Markdown"
+    ],
+    "Show Right Sidebar": [
+        "Afficher la barre latérale droite"
+    ],
+    "Show Status Bar": [
+        "Afficher la barre d’état"
+    ],
+    "Show Tags Menu": [
+        "Afficher le menu des balises"
+    ],
+    "showErrorMessage": [
+        "Afficher le message d'erreur"
+    ],
+    "showErrorMessage\u0004\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\"": [
+        "\"%1\" n'est pas un nom valide pour un fichier. Les noms doivent avoir une longueur non nulle, et ne peuvent pas inclure \"/\", \"\\\", ou \":\""
+    ],
+    "showErrorMessage\u0004Delete Failed": [
+        "Echec de la Suppression"
+    ],
+    "showErrorMessage\u0004Duplicate file": [
+        "Dupliquer le fichier"
+    ],
+    "showErrorMessage\u0004Error while copying/moving files": [
+        "Erreur lors de la copie/déplacement des fichiers"
+    ],
+    "showErrorMessage\u0004Open directory": [
+        "Ouvrir le dossier"
+    ],
+    "showErrorMessage\u0004Paste Error": [
+        "Impossible de coller"
+    ],
+    "showErrorMessage\u0004Rename Error": [
+        "Erreur lors du renommage"
+    ],
+    "showErrorMessage\u0004Shut down kernel": [
+        "Arrêter le noyau"
+    ],
+    "showErrorMessage\u0004Upload Error": [
+        "Erreur lors du téléversement"
+    ],
+    "Shut Down": [
+        "Arrêter"
+    ],
+    "SHUT DOWN": [
+        "ÉTEINDRE"
+    ],
+    "Shut Down All": [
+        "Tout arrêter"
+    ],
+    "Shut down all kernels?": [
+        "Arrêter tous les noyaux?"
+    ],
+    "Shut Down All Kernels…": [
+        "Fermer tous les noyaux…"
+    ],
+    "Shut Down All?": [
+        "Tout arrêter?"
+    ],
+    "Shut Down All…": [
+        "Tout arrêter…"
+    ],
+    "Shut down JupyterLab": [
+        "Arrêter JupyterLab"
+    ],
+    "Shut down kernel": [
+        "Arrêter le noyau"
+    ],
+    "Shut Down Kernel": [
+        "Arrêter le noyau"
+    ],
+    "Shut down on close": [
+        "Arrêter à la fermeture"
+    ],
+    "Shut down the console?": [
+        "Arrêter la console ?"
+    ],
+    "Shut down the Console?": [
+        "Arrêter la console ?"
+    ],
+    "Shut down the notebook?": [
+        "Arrêter le notebook?"
+    ],
+    "Shut down the Notebook?": [
+        "Arrêter le notebook?"
+    ],
+    "Shutdown confirmation": [
+        "Confirmer l'arrêt"
+    ],
+    "Shutdown Console": [
+        "Arrêter la console"
+    ],
+    "Shutdown Terminal": [
+        "Arrêter le terminal"
+    ],
+    "Single-Document Mode": [
+        "Mode document unique"
+    ],
+    "Skip": [
+        "Ignorer"
+    ],
+    "Slide": [
+        "Diapositive"
+    ],
+    "Slide Type": [
+        "Type de diapositive"
+    ],
+    "Slides": [
+        "Diapositives"
+    ],
+    "solarized dark": [
+        "foncé solarisé"
+    ],
+    "solarized light": [
+        "solarisé clair"
+    ],
+    "Source": [
+        "Source"
+    ],
+    "Spaces": [
+        "Espaces"
+    ],
+    "Spaces: %1": [
+        "Espaces : %1",
+        "Espaces : %1"
+    ],
+    "Split Cell": [
+        "Scinder une cellule"
+    ],
+    "Start a new terminal session": [
+        "Démarrer une nouvelle session de terminal"
+    ],
+    "Start Other Kernel": [
+        "Démarrer un autre noyau"
+    ],
+    "Start Preferred Kernel": [
+        "Démarrer le noyau préféré"
+    ],
+    "Status Bar Item flash": [
+        "Élément de la barre d'état clignotant"
+    ],
+    "Status Bar Visibility": [
+        "Visibilité de la barre d'état"
+    ],
+    "Step In": [
+        "Entrer"
+    ],
+    "Step Out": [
+        "Sortir"
+    ],
+    "Style Active Line": [
+        "Ligne de style active"
+    ],
+    "Style Selected Text": [
+        "Style du texte sélectionné"
+    ],
+    "Sub-Slide": [
+        "Sous-diapositive"
+    ],
+    "sublime": [
+        "sublime"
+    ],
+    "Sublime Text": [
+        "Sublime Text"
+    ],
+    "Switch kernel": [
+        "Changer de noyau"
+    ],
+    "Switch Sidebar Side": [
+        "Changer le côté de la barre latérale"
+    ],
+    "System Defaults": [
+        "Paramètres par défaut du système"
+    ],
+    "tab": [
+        "onglet"
+    ],
+    "Tab Size": [
+        "Taille des onglets"
+    ],
+    "Table / Tree View": [
+        "Tableau / Vue de l'arborescence"
+    ],
+    "Table of Contents": [
+        "Table des Matières"
+    ],
+    "Tabs": [
+        "Onglets"
+    ],
+    "Tags in Notebook": [
+        "Étiquettes dans le carnet"
+    ],
+    "Terminal": [
+        "Terminal"
+    ],
+    "Terminal %1": [
+        "Terminal %1"
+    ],
+    "Terminal Theme": [
+        "Thème du terminal"
+    ],
+    "Terminals": [
+        "Terminaux"
+    ],
+    "Terminate": [
+        "Terminer"
+    ],
+    "Text": [
+        "Texte"
+    ],
+    "Text Editor": [
+        "Éditeur de texte"
+    ],
+    "Text Editor Indentation": [
+        "Indentation de l'éditeur de texte"
+    ],
+    "Text Editor Key Map": [
+        "Carte des touches de l'éditeur de texte"
+    ],
+    "Text Editor Syntax Highlighting": [
+        "Surlignage de syntaxe de l'éditeur de texte"
+    ],
+    "Text Editor Theme": [
+        "Thème de l'éditeur de texte"
+    ],
+    "Text File": [
+        "Fichier texte"
+    ],
+    "Thanks for trying out JupyterLab's extension manager.\nThe JupyterLab development team is excited to have a robust\nthird-party extension community.\nHowever, we cannot vouch for every extension,\nand some may introduce security risks.\nDo you want to continue?": [
+        "Merci d'avoir essayé le gestionnaire d'extension de JupyterLab.\nL'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension de\nrobuste.\nCependant, nous ne pouvons pas nous porter garant pour chaque extension,\net certains peuvent introduire des risques de sécurité.\nVoulez-vous continuer ?"
+    ],
+    "The checkpoint was last updated at: ": [
+        "Le point de contrôle a été mis à jour pour la dernière fois à: "
+    ],
+    "The extension manager is disabled. Please contact your system\nadministrator to verify the listings configuration.": [
+        "Le gestionnaire d'extension est désactivé. Veuillez contacter l'administrateur de votre système\npour vérifier la configuration des listes."
+    ],
+    "The file size is %1 MB. Do you still want to upload it?": [
+        "La taille du fichier est de %1 Mo. Voulez-vous quand-même le télécharger ?"
+    ],
+    "The JupyterLab development team is excited to have a robust\nthird-party extension community. However, we do not review\nthird-party extensions, and some extensions may introduce security\nrisks or contain malicious code that runs on your machine.": [
+        "L'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension de\ntiers solide. Cependant, nous ne revoyons pas les extensions\ntierces, et certaines extensions peuvent introduire des risques de sécurité\nou contenir du code malveillant qui s'exécute sur votre machine."
+    ],
+    "The kernel for %1 appears to be terminating. You can not run any cell for now.": [
+        "Le noyau pour %1 semble être en train de se fermer. Vous ne pouvez pas exécuter de cellule pour le moment."
+    ],
+    "The kernel for %1 appears to have died. It will restart automatically.": [
+        "Le noyau pour %1 semble être mort. Il va redémarrer automatiquement."
+    ],
+    "The loading screen is taking a long time. \nWould you like to clear the workspace or keep waiting?": [
+        "L'écran de chargement prend beaucoup de temps. \nVoulez-vous vider l'espace de travail ou continuer à attendre ?"
+    ],
+    "The package <code>%1</code>, is required by the following kernels:": [
+        "Le paquet <code>%1</code>, est requis par les noyaux suivants :"
+    ],
+    "The path: %1 was not found. JupyterLab redirected to: %2": [
+        "Le chemin : %1 n'a pas été trouvé. JupyterLab a été redirigé vers : %2"
+    ],
+    "The server has some missing requirements for installing extensions.": [
+        "Le serveur a des pré-requis manquants pour installer des extensions."
+    ],
+    "the-matrix": [
+        "la-matrice"
+    ],
+    "Theme": [
+        "Thème"
+    ],
+    "Theme CSS Overrides": [
+        "Substitutions de thème CSS"
+    ],
+    "Theme Scrollbars": [
+        "Barres de défilement du thème"
+    ],
+    "This cannot be undone.": [
+        "Cela ne peut pas être annulé."
+    ],
+    "This HTML output contains inline scripts. Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
+        "Cette sortie HTML contient des scripts en ligne. Êtes-vous sûr de vouloir exécuter JavaScript arbitraire au cours de votre session JupyterLab?"
+    ],
+    "This notebook has been converted from an newer notebook format (v%1)\nto the current notebook format (v%2).\nThe next time you save this notebook, the current notebook format (v%2) will be used.\nSome features of the original notebook may not be available.' To preserve the original format version,\nclose the notebook without saving it.": [
+        "Ce notebook a été converti d'un format de notebook plus récent (v%1)\nque le format actuel (v%2).\nLa prochaine fois que vous sauverez ce notebook, le format actuel du notebook (v%2) sera utilisé.\n'Certaines fonctionnalités du notebook original peuvent ne pas être disponibles.' Pour préserver la version originale,\nfermez le notebook sans le sauvegarder."
+    ],
+    "This notebook has been converted from an older notebook format (v%1)\nto the current notebook format (v%2).\nThe next time you save this notebook, the current notebook format (vthis._nbformat) will be used.\n'Older versions of Jupyter may not be able to read the new format.' To preserve the original format version,\nclose the notebook without saving it.": [
+        "Ce notebook a été converti d'un ancien format de notebook (v%1)\nau format actuel (v%2).\nLa prochaine fois que vous sauverez ce notebook, le format actuel du notebook (vthis._nbformat) sera utilisé.\n'Anciennes versions de Jupyter peuvent ne pas être en mesure de lire le nouveau format.' Pour préserver la version originale,\nfermez le notebook sans le sauvegarder."
+    ],
+    "This package has indicated that it needs a corresponding kernel\npackage. Please contact your Administrator to update the server with\none of the following commands:": [
+        "Ce paquet a indiqué qu'il a besoin d'un paquet correspondant au noyau.\nVeuillez contacter votre administrateur pour mettre à jour le serveur avec\nl'une des commandes suivantes :"
+    ],
+    "This package has indicated that it needs a corresponding package for the kernel.": [
+        "Ce paquet a indiqué qu'il a besoin d'un paquet correspondant pour le noyau."
+    ],
+    "This package has indicated that it needs a corresponding server\nextension. Please contact your Administrator to update the server with\none of the following commands:": [
+        "Ce paquet a indiqué qu'il a besoin d'une extension serveur\ncorrespondante. Veuillez contacter votre administrateur pour mettre à jour le serveur avec\nl'une des commandes suivantes :"
+    ],
+    "To use JupyterLab again, you will need to relaunch it.": [
+        "Pour utiliser à nouveau JupyterLab, vous devrez le relancer."
+    ],
+    "Toggle All Line Numbers": [
+        "Afficher/masquer les numéros de ligne"
+    ],
+    "Toggle Auto-Numbering": [
+        "Activer/désactiver la numérotation automatique"
+    ],
+    "Toggle Code Cells": [
+        "Activer/désactiver les cellules de code"
+    ],
+    "Toggle Last Modified Column": [
+        "Activer/désactiver la dernière colonne modifiée"
+    ],
+    "Toggle Markdown Text Cells": [
+        "Activer/désactiver les cellules de texte Markdown"
+    ],
+    "Treat option as meta key on macOS": [
+        "Traiter l'option comme touche de combinaison sur macOS"
+    ],
+    "Trust HTML": [
+        "Faire confiance au HTML"
+    ],
+    "Trust HTML File": [
+        "Faire confiance au fichier HTML"
+    ],
+    "Trust Notebook": [
+        "Faire confiance au notebook"
+    ],
+    "Trust this notebook?": [
+        "Faire confiance au notebook?"
+    ],
+    "TSV File": [
+        "Fichier TSV"
+    ],
+    "Undo": [
+        "Annuler"
+    ],
+    "Undo Cell Operation": [
+        "Annuler l'opération de cellule"
+    ],
+    "Uninstall": [
+        "Désinstaller"
+    ],
+    "Update": [
+        "Mettre à jour"
+    ],
+    "Updating extensions list": [
+        "Mise à jour de la liste d'extensions"
+    ],
+    "Upload": [
+        "Téléverser"
+    ],
+    "Upload Files": [
+        "Charger des fichiers"
+    ],
+    "Uploading…": [
+        "Envoi en cours…"
+    ],
+    "Use Kernel from Other Session": [
+        "Utiliser le noyau d'une autre session"
+    ],
+    "Use Kernel from Preferred Session": [
+        "Utiliser le noyau de la session préférée"
+    ],
+    "Use Terminal Theme: %1": [
+        "Utiliser le thème du terminal : %1"
+    ],
+    "Use Theme: %1": [
+        "Utiliser le thème : %1"
+    ],
+    "User Preferences": [
+        "Préférences de l'utilisateur"
+    ],
+    "Variable filter": [
+        "Filtre de variable"
+    ],
+    "Variables": [
+        "Variables"
+    ],
+    "Version %1": [
+        "Version %1"
+    ],
+    "View": [
+        "Afficher"
+    ],
+    "vim": [
+        "vim"
+    ],
+    "Warning": [
+        "Attention"
+    ],
+    "Whether the HTML file is trusted.\nTrusting the file allows scripts to run in it,\nwhich may result in security risks.\nOnly enable for files you trust.": [
+        "Si le fichier HTML est fiable.\nFaire confiance au fichier permet à des scripts de s'exécuter dedans,\nce qui peut entraîner des risques de sécurité.\nActiver uniquement pour les fichiers de confiance."
+    ],
+    "Word Wrap": [
+        "Retour à la ligne"
+    ],
+    "Workspace loader": [
+        "Chargeur d'espace de travail"
+    ],
+    "Wrap Words": [
+        "Retour à la ligne"
+    ],
+    "xq-light": [
+        "xq-light"
+    ],
+    "YAML File": [
+        "Fichier YAML"
+    ],
+    "You have shut down the Jupyter server. You can now close this tab.": [
+        "Vous avez arrêté le serveur Jupyter. Vous pouvez maintenant fermer cet onglet."
+    ],
+    "You have unsaved changes.": [
+        "Vous avez des modifications non enregistrées."
+    ],
+    "You should make sure that the indicated packages are installed before\ntrying to use the extension. Do you want to continue with the extension\ninstallation?": [
+        "Vous devez vous assurer que les paquets indiqués sont installés avant\nd'essayer d'utiliser l'extension. Voulez-vous continuer l'installation de l'extension?"
+    ],
+    "You will lose any unsaved changes.": [
+        "Vous perdrez toutes les modifications non enregistrées."
+    ],
+    "Your changes were not saved.": [
+        "Vos modifications n'ont pas été enregistrées."
+    ],
+    "Your server at %1 is not running.\nWould you like to restart it?": [
+        "Votre serveur à %1 n'est pas en cours d'exécution.\nVoulez-vous le redémarrer ?"
+    ],
+    "zenburn": [
+        "zenburn"
+    ],
+    "Zoom In": [
+        "Zoomer"
+    ],
+    "Zoom Out": [
+        "Dézoomer"
+    ],
+    "© 2015-2020 Project Jupyter Contributors": [
+        "© Contributeurs du projet Jupyter 2015-2020"
+    ]
+}
