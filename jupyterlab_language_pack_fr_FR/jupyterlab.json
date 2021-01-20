@@ -27,13 +27,13 @@
         "\nInscriptible: %1"
     ],
     "\"%1\" already exists, overwrite?": [
-        "\"%1\" existe déjà, l'écraser ?"
+        "\"%1\" existe déjà, remplacer?"
     ],
     "\"%1\" already exists. Do you want to replace it?": [
         "\"%1\" existe déjà. Voulez-vous le remplacer?"
     ],
     "\"%1\" has changed on disk since the last time it was opened or saved.\nDo you want to overwrite the file on disk with the version open here, \nor load the version on disk (revert)?": [
-        "\"%1\" a changé sur le disque depuis la dernière fois qu'il a été ouvert ou enregistré.\nVoulez-vous écraser le fichier sur le disque avec la version ouverte ici,\nou charger la version sur le disque (rétablir) ?"
+        "\"%1\" a changé sur le disque depuis la dernière fois qu'il a été ouvert ou enregistré.\nVoulez-vous remplacer le fichier sur le disque avec la version ouverte ici,\nou charger la version sur le disque (rétablir) ?"
     ],
     "\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\"": [
         "\"%1\" n'est pas un nom valide pour un fichier. Les noms doivent avoir une longueur non nulle, et ne peuvent pas inclure \"/\", \"\\\", ou \":\""
@@ -70,7 +70,7 @@
         "Une connexion au serveur Jupyter n'a pas pu être établie.\nJupyterLab va continuer à essayer de se reconnecter.\nVérifiez votre connexion réseau ou la configuration du serveur Jupyter.\n"
     ],
     "A trusted Jupyter notebook may execute hidden malicious code when you openit.": [
-        "Un notebook Jupyter de confiance pourrait exécuter du code malveillant lorsque vous l'ouvrez."
+        "Un notebook Jupyter approuvé pourrait exécuter du code malveillant lorsque vous l'ouvrez."
     ],
     "abcdef": [
         "abcdef"
@@ -103,7 +103,7 @@
         "Activer l'onglet précédent"
     ],
     "Active cell trusted: %1 of %2 cells trusted.": [
-        "Cellules actives de confiance: %1 sur %2 cellules fiables."
+        "Cellules actives approuvées: %1 sur %2 cellules fiables."
     ],
     "Add Checkpoint": [
         "Ajouter un point de contrôle"
@@ -124,7 +124,7 @@
         "Toutes les erreurs seront listées ici"
     ],
     "Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
-        "Êtes-vous sûr de vouloir exécuter Javascript arbitraire dans votre session JupyterLab?"
+        "Êtes-vous sûr de vouloir exécuter du Javascript dans votre session JupyterLab?"
     ],
     "Are you sure you want to close \"%1\"?": [
         "Êtes-vous sûr de vouloir fermer \"%1\"?"
@@ -509,7 +509,7 @@
         "Découvrir"
     ],
     "Dismiss": [
-        "Passer"
+        "Ignorer"
     ],
     "Display localized strings prefix": [
         "Afficher le préfixe des chaînes localisées"
@@ -536,7 +536,7 @@
         "Dupliquer"
     ],
     "Edit": [
-        "Éditer"
+        "Modifier"
     ],
     "Editor": [
         "Éditeur"
@@ -569,7 +569,7 @@
         "Passer en mode commande"
     ],
     "Enter Edit Mode": [
-        "Passer en mode édition"
+        "Passer en mode d'édition"
     ],
     "Error": [
         "Erreur"
@@ -851,13 +851,13 @@
         "jupyter"
     ],
     "Jupyter Reference": [
-        "Référence JupyterLab"
+        "Référence Jupyter"
     ],
     "Jupyter security documentation": [
         "Documentation de sécurité Jupyter"
     ],
     "JupyterLab build is suggested:": [
-        "La version JupyterLab est suggérée :"
+        "La compilation de JupyterLab est suggérée :"
     ],
     "JupyterLab Dark": [
         "JupyterLab Sombre"
@@ -902,7 +902,7 @@
         "Opérations sur le Noyau"
     ],
     "Kernel Restarting": [
-        "Redémarrage en cours du noyau"
+        "Redémarrage du noyau en cours"
     ],
     "Kernel Terminating": [
         "Fermeture du noyau"
@@ -977,7 +977,7 @@
         "Limite de nombre d'entrée de log"
     ],
     "Log level": [
-        "Niveau de log"
+        "Niveau du journal"
     ],
     "Log Level:": [
         "Niveau du journal :"
@@ -992,7 +992,7 @@
         "Se déconnecter du Hub"
     ],
     "Log: %1": [
-        "Log : %1"
+        "Journal : %1"
     ],
     "Main Area": [
         "Zone principale"
@@ -1142,10 +1142,10 @@
         "Pas de balise disponible"
     ],
     "Note: To disable a system default shortcut,\ncopy it to User Preferences and add the\n\"disabled\" key, for example:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\": true\n}\n\nList of commands followed by keyboard shortcuts:\n%1\n\nList of keyboard shortcuts:": [
-        "Remarque : Pour désactiver un raccourci par défaut du système,\ncopiez-le dans les préférences utilisateur et ajoutez le paramètre\n\"disabled\", par exemple:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\" : true\n}\n\nListe des commandes suivies des raccourcis clavier :\n%1\n\nListe des raccourcis clavier :"
+        "Remarque : Pour désactiver un raccourci par défaut du système,\ncopiez-le dans les préférences d'utilisateur et ajoutez le paramètre\n\"disabled\", par exemple:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\" : true\n}\n\nListe des commandes suivies des raccourcis clavier :\n%1\n\nListe des raccourcis clavier :"
     ],
     "Notebook": [
-        "Bloc-notes"
+        "Notebook"
     ],
     "Notebook Cell Operations": [
         "Opérations des cellules du notebook"
@@ -1172,10 +1172,10 @@
         "Outils du notebook"
     ],
     "Notebook trusted: %1 of %2 cells trusted.": [
-        "Notebook de confiance : %1 sur %2 cellules fiables."
+        "Notebook approuvé: %1 sur %2 cellules fiables."
     ],
     "Notes": [
-        "Remarques"
+        "Notes"
     ],
     "OK": [
         "OK"
@@ -1340,7 +1340,7 @@
         "Recompiler"
     ],
     "Reconnect To Kernel": [
-        "Reconnexion au noyau"
+        "Reconnecter au noyau"
     ],
     "Recording timing": [
         "Horodatage de l'enregistrement"
@@ -1772,13 +1772,13 @@
         "Paramètres de compléteur du notebook."
     ],
     "schema\u0004Notebook settings.": [
-        "Paramètres du bloc-notes."
+        "Paramètres du notebook."
     ],
     "schema\u0004Notebook tooltip settings.": [
-        "Paramètres d'info-bulle de bloc-notes."
+        "Paramètres d'info-bulle du notebook."
     ],
     "schema\u0004Notebook Tooltips": [
-        "Info-bulles de bloc-notes"
+        "Info-bulles du notebook"
     ],
     "schema\u0004Option key on macOS can be used as meta key. This enables to use shortcuts such as option + f to move cursor forward one word": [
         "La touche \"option\" sur macOS peut être utilisée comme touche de combinaison. Cela permet d'utiliser des raccourcis tels que \"option + f\" pour avancer le curseur d'un mot"
@@ -1943,7 +1943,7 @@
         "Afficher/Masquer la barre d'état"
     ],
     "schema\u0004Whether to shut down or not the kernel when closing a notebook.": [
-        "Fermer ou non le noyau lors de la fermeture d'un bloc-notes."
+        "Fermer ou non le noyau lors de la fermeture d'un notebook."
     ],
     "Screen Reader Mode": [
         "Mode lecture d'écran"
@@ -2003,7 +2003,7 @@
         "Thème choisi"
     ],
     "Selecting trust will re-render this notebook in a trusted state.": [
-        "En sélectionnant la confiance, ce notebook sera rendu à nouveau dans un état de confiance."
+        "En sélectionnant approuve, ce notebook sera rendu à nouveau dans un état approuvé."
     ],
     "Selection Pointer": [
         "Pointeur de sélection"
@@ -2159,7 +2159,7 @@
         "Mode document unique"
     ],
     "Skip": [
-        "Ignorer"
+        "Sauter"
     ],
     "Slide": [
         "Diapositive"
@@ -2174,7 +2174,7 @@
         "foncé solarisé"
     ],
     "solarized light": [
-        "solarisé clair"
+        "clair solarisé"
     ],
     "Source": [
         "Source"
@@ -2250,7 +2250,7 @@
         "Onglets"
     ],
     "Tags in Notebook": [
-        "Étiquettes dans le carnet"
+        "Étiquettes dans le notebook"
     ],
     "Terminal": [
         "Terminal"
@@ -2289,7 +2289,7 @@
         "Fichier texte"
     ],
     "Thanks for trying out JupyterLab's extension manager.\nThe JupyterLab development team is excited to have a robust\nthird-party extension community.\nHowever, we cannot vouch for every extension,\nand some may introduce security risks.\nDo you want to continue?": [
-        "Merci d'avoir essayé le gestionnaire d'extension de JupyterLab.\nL'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension de\nrobuste.\nCependant, nous ne pouvons pas nous porter garant pour chaque extension,\net certains peuvent introduire des risques de sécurité.\nVoulez-vous continuer ?"
+        "Merci d'avoir essayé le gestionnaire d'extension de JupyterLab.\nL'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension \nrobuste.\nCependant, nous ne pouvons pas nous porter garant pour chaque extension,\net certains peuvent introduire des risques de sécurité.\nVoulez-vous continuer ?"
     ],
     "The checkpoint was last updated at: ": [
         "Le point de contrôle a été mis à jour pour la dernière fois à: "
@@ -2301,7 +2301,7 @@
         "La taille du fichier est de %1 Mo. Voulez-vous quand-même le télécharger ?"
     ],
     "The JupyterLab development team is excited to have a robust\nthird-party extension community. However, we do not review\nthird-party extensions, and some extensions may introduce security\nrisks or contain malicious code that runs on your machine.": [
-        "L'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension de\ntiers solide. Cependant, nous ne revoyons pas les extensions\ntierces, et certaines extensions peuvent introduire des risques de sécurité\nou contenir du code malveillant qui s'exécute sur votre machine."
+        "L'équipe de développement de JupyterLab est heureuse d'avoir une communauté d'extension\ntiers robuste. Cependant, nous ne révisons pas les extensions\ntierces, et certaines extensions peuvent introduire des risques de sécurité\nou contenir du code malveillant qui s'exécute sur votre machine."
     ],
     "The kernel for %1 appears to be terminating. You can not run any cell for now.": [
         "Le noyau pour %1 semble être en train de se fermer. Vous ne pouvez pas exécuter de cellule pour le moment."
@@ -2337,7 +2337,7 @@
         "Cela ne peut pas être annulé."
     ],
     "This HTML output contains inline scripts. Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
-        "Cette sortie HTML contient des scripts en ligne. Êtes-vous sûr de vouloir exécuter JavaScript arbitraire au cours de votre session JupyterLab?"
+        "Cette sortie HTML contient des scripts en ligne. Êtes-vous sûr de vouloir exécuter du code arbitraire JavaScript au cours de votre session JupyterLab?"
     ],
     "This notebook has been converted from an newer notebook format (v%1)\nto the current notebook format (v%2).\nThe next time you save this notebook, the current notebook format (v%2) will be used.\nSome features of the original notebook may not be available.' To preserve the original format version,\nclose the notebook without saving it.": [
         "Ce notebook a été converti d'un format de notebook plus récent (v%1)\nque le format actuel (v%2).\nLa prochaine fois que vous sauverez ce notebook, le format actuel du notebook (v%2) sera utilisé.\n'Certaines fonctionnalités du notebook original peuvent ne pas être disponibles.' Pour préserver la version originale,\nfermez le notebook sans le sauvegarder."
