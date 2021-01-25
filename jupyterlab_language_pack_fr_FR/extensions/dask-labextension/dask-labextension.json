@@ -1,0 +1,24 @@
+{
+    "dask-labextension": {
+        "": {
+            "domain": "dask-labextension",
+            "lang": "fr-FR",
+            "plural_forms": "nplurals=2; plural=(n > 1);"
+        },
+        "Auto-Start Client": [
+            "Démarrage automatique du client"
+        ],
+        "Default URL for the Dask Dashboard Webserver": [
+            "URL par défaut pour le serveur Web du Dask Dashboard"
+        ],
+        "schema\u0004Dask Dashboard": [
+            "Dask Dashboard"
+        ],
+        "schema\u0004If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'": [
+            "Si défini à vrai, chaque notebook et console aura automatiquement un client dask pour le cluster actif injecté dans le noyau sous le nom de 'client'"
+        ],
+        "schema\u0004Settings for the Dask Dashboard plugin.": [
+            "Paramètres pour le plugin Dask Dashboard."
+        ]
+    }
+}
