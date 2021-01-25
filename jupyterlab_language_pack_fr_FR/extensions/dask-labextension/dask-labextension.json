@@ -12,7 +12,7 @@
             "URL par défaut pour le serveur Web du Dask Dashboard"
         ],
         "schema\u0004Dask Dashboard": [
-            "Dask Dashboard"
+            "Dashboard"
         ],
         "schema\u0004If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'": [
             "Si défini à vrai, chaque notebook et console aura automatiquement un client dask pour le cluster actif injecté dans le noyau sous le nom de 'client'"
