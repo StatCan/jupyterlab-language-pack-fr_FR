@@ -112,7 +112,7 @@
         "Ajouter une étiquette"
     ],
     "Advanced Settings Editor": [
-        "Configuration avancée"
+        "Éditeur des Configurations Avancées"
     ],
     "Advanced Tools": [
         "Outils avancés"
@@ -1317,6 +1317,9 @@
     ],
     "Python File": [
         "Fichier Python"
+    ],
+    "Push to Remote": [
+        "pousser sur un serveur distant"
     ],
     "R File": [
         "Fichier R"
