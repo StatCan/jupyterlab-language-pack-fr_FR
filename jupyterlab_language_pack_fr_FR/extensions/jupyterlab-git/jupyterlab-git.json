@@ -8,7 +8,7 @@
         " (en avance de %1 commits)"
     ],
     "Disabled: No files are staged for commit": [
-        "Désactivé: aucun fichier n'est indexé pour la validation"
+        "Désactivé: aucun fichier n'est indexé pour faire un commit"
     ],
     "Disabled: No commit message summary": [
         "Désactivé: aucun résumé du message de validation"
@@ -22,8 +22,8 @@
     "Enter a commit message summary (a single line, preferably less than 50 characters)": [
         "Entrez un résumé du message de validation (une seule ligne, préférablement moins de 50 caractères)"
     ],
-    "Description": [
-        "Description"
+    "Description (optional)": [
+        "Description (optionnelle)"
     ],
     "Enter a commit message description": [
         "Entrez une description du message de validation"
@@ -39,6 +39,45 @@
     ],
     "Create a new branch": [
         "Créer une nouvelle branche"
+    ],
+    "Create a Branch": [
+        "Créer une Branche"
+    ],
+    "Name": [
+        "Nom"
+    ],
+    "Enter a branch name": [
+        "Entrer un nom pour la branche"
+    ],
+    "Create branch based on...": [
+        "Créer une branche basée sur..."
+    ],
+    "Close this dialog without creating a new branch": [
+        "Fermez cette boîte de dialogue sans créer de nouvelle branche"
+    ],
+    "Create Branch": [
+        "Créer la Branche"
+    ],
+    "Create a new branch based on: %1": [
+        "Créer une nouvelle branche basée sur: %1"
+    ],
+    "Creating branch...": [
+        "Creation de la branche..."
+    ],
+    "Failed to create branch.": [
+        "Création de la branche a échoué."
+    ],
+    "Branch created.": [
+        "La branche a été créée."
+    ],
+    "The current branch. Pick this if you want to build on work done in this branch.": [
+        "La branche actuelle. Choisissez cette option si vous souhaitez vous appuyer sur le travail effectué dans cette branche."
+    ],
+    "The default branch. Pick this if you want to start fresh from the default branch.": [
+        "La branche par défaut. Choisissez ceci si vous voulez repartir de la branche par défaut."
+    ],
+    "Summary (%1 to commit)": [
+        "Résumé (%1 pour valider)"
     ],
     "New Branch": [
         "Nouvelle Branche"
@@ -77,7 +116,7 @@
         "Vos modifications apportées aux fichiers suivants seraient écrasées :"
     ],
     "Please commit, stash, or discard your changes before you switch branches.": [
-        "Veuillez valider, cacher ou annuler vos modifications avant de changer de branche."
+        "Veuillez valider, remiser ou annuler vos modifications avant de changer de branche."
     ],
     "Dismiss": [
         "Ignorer"
@@ -98,7 +137,7 @@
         "Nom d’utilisateur ou mot de passe incorrect."
     ],
     "Enter the Clone URI of the repository": [
-        "Entrez l'URI de clonage du dépôt"
+        "Entrez l'URI du dépôt à cloner"
     ],
     "is not": [
         "n'est pas"
@@ -170,10 +209,10 @@
         "Supprimer les modifications..."
     ],
     "Submit changes": [
-        "Soumettre les modifications"
+        "Soumettre vos changements"
     ],
     "Cancel changes": [
-        "Annuler les modifications"
+        "Annuler vos changements"
     ],
     "All changes after commit %1 will be gone forever (hard reset). Are you sure?": [
         "Toutes les modifications après la validation (commit) %1 seront définitivement supprimées (hard reset). Êtes-vous sûr?"
@@ -191,7 +230,7 @@
         "Réinitialiser les modifications"
     ],
     "The repository contains files with uncommitted changes. Please commit or discard these changes before switching to a tag.": [
-        ""
+        "Le dépôt contient des fichiers avec des modifications non validées. Veuillez valider ou annuler ces modifications avant de changer à une étiquette."
     ],
     "Fail to get the tags.": [
         "Impossible d'obtenir les étiquettes."
@@ -203,19 +242,19 @@
         "Extraction des étiquettes sont désactivées"
     ],
     "Checking tag out...": [
-        ""
+        "Extraction de l'étiquette..."
     ],
     "Tag checkout.": [
-        ""
+        "Extraction d'étiquette."
     ],
     "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list.": [
-        ""
+        "L'extension de serveur Git n'est pas disponible. Veuillez vous assurer que vous avez installé l'extension de serveur JupyterLab Git en exécutant: pip install --upgrade jupyterlab-git. Pour confirmer que l'extension de serveur est installée, exécutez: jupyter server extension list."
     ],
     "Unable to checkout tag": [
-        ""
+        "Impossible d'extraire l'étiquette"
     ],
     "Please commit, stash, or discard your changes before you checkout tags.": [
-        ""
+        "Veuillez valider, remiser ou annuler (commit, stash, or discard) vos modifications avant d'extraire des étiquettes."
     ],
     " (behind by %1 commits)": [
         " (en arrière par %1 commits)"
