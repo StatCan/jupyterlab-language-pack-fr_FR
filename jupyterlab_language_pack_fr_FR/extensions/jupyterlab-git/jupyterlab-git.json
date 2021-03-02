@@ -7,161 +7,17 @@
     " (ahead by %1 commits)": [
         " (en avance de %1 commits)"
     ],
-    "Disabled: No files are staged for commit": [
-        "Désactivé: aucun fichier n'est indexé pour faire un commit"
+    " (behind by %1 commits)": [
+        " (en arrière par %1 commits)"
     ],
-    "Disabled: No commit message summary": [
-        "Désactivé: aucun résumé du message de validation"
+    " a Git repository. To use Git, navigate to a local repository, initialize a repository here, or clone an existing repository.": [
+        " un dépôt Git. Pour utiliser Git, accédez à un dépôt local, initialisez un nouveau dépôt ici ou clonez un dépôt existant."
     ],
-    "Commit": [
-        "Commit"
+    " Help ": [
+        " Aide "
     ],
-    "Summary (required)": [
-        "Résumé (requis)"
-    ],
-    "Enter a commit message summary (a single line, preferably less than 50 characters)": [
-        "Entrez un résumé du message de validation (une seule ligne, préférablement moins de 50 caractères)"
-    ],
-    "Description (optional)": [
-        "Description (optionnelle)"
-    ],
-    "Enter a commit message description": [
-        "Entrez une description du message de validation"
-    ],
-    "Filter": [
-        "Filtrer"
-    ],
-    "Filter branch menu": [
-        "Filtrer le menu de la branche"
-    ],
-    "Clear the current filter": [
-        "Effacer le filtre actuel"
-    ],
-    "Create a new branch": [
-        "Créer une nouvelle branche"
-    ],
-    "Create a Branch": [
-        "Créer une Branche"
-    ],
-    "Name": [
-        "Nom"
-    ],
-    "Enter a branch name": [
-        "Entrer un nom pour la branche"
-    ],
-    "Create branch based on...": [
-        "Créer une branche basée sur..."
-    ],
-    "Close this dialog without creating a new branch": [
-        "Fermez cette boîte de dialogue sans créer de nouvelle branche"
-    ],
-    "Create Branch": [
-        "Créer la Branche"
-    ],
-    "Create a new branch based on: %1": [
-        "Créer une nouvelle branche basée sur: %1"
-    ],
-    "Creating branch...": [
-        "Creation de la branche..."
-    ],
-    "Failed to create branch.": [
-        "Création de la branche a échoué."
-    ],
-    "Branch created.": [
-        "La branche a été créée."
-    ],
-    "The current branch. Pick this if you want to build on work done in this branch.": [
-        "La branche actuelle. Choisissez cette option si vous souhaitez vous appuyer sur le travail effectué dans cette branche."
-    ],
-    "The default branch. Pick this if you want to start fresh from the default branch.": [
-        "La branche par défaut. Choisissez ceci si vous voulez repartir de la branche par défaut."
-    ],
-    "Summary (%1 to commit)": [
-        "Résumé (%1 pour valider)"
-    ],
-    "New Branch": [
-        "Nouvelle Branche"
-    ],
-    "Switch to branch: %1": [
-        "Passer à la branche: %1"
-    ],
-    "Delete this branch locally": [
-        "Supprimer cette branche localement"
-    ],
-    "Delete branch": [
-        "Supprimer cette branche"
-    ],
-    "Are you sure you want to permanently delete the branch ": [
-        "Êtes-vous sûr de vouloir supprimer définitivement la branche "
-    ],
-    "Cancel": [
-        "Annuler"
-    ],
-    "Creating a new branch is disabled": [
-        "La création d'une nouvelle branche est désactivée"
-    ],
-    "Switching branches is disabled": [
-        "Le changement de branche est désactivé"
-    ],
-    "Switching branch...": [
-        "Changement de branche..."
-    ],
-    "Switched branch.": [
-        "Branche changée."
-    ],
-    "Unable to switch branch": [
-        "Impossible de changer de branche"
-    ],
-    "Your changes to the following files would be overwritten by switching:": [
-        "Vos modifications apportées aux fichiers suivants seraient écrasées :"
-    ],
-    "Please commit, stash, or discard your changes before you switch branches.": [
-        "Veuillez valider, remiser ou annuler vos modifications avant de changer de branche."
-    ],
-    "Dismiss": [
-        "Ignorer"
-    ],
-    "Failed to switch branch.": [
-        "Échec du changement de branche."
-    ],
-    "View file changes": [
-        "Afficher les modifications apportées aux fichiers"
-    ],
-    "Git credentials required": [
-        "Informations d'identification Git requises"
-    ],
-    "Enter credentials for remote repository": [
-        "Entrez vos informations d’authentification pour le dépôt distant"
-    ],
-    "Incorrect username or password.": [
-        "Nom d’utilisateur ou mot de passe incorrect."
-    ],
-    "Enter the Clone URI of the repository": [
-        "Entrez l'URI du dépôt à cloner"
-    ],
-    "is not": [
-        "n'est pas"
-    ],
-    "Error": [
-        "Erreur"
-    ],
-    "SHOW": [
-        "Afficher"
-    ],
-    "Detailed message": [
-        "Message détaillé"
-    ],
-    "jupyterlab-git settings.": [
-        "paramètres jupyterlab-git."
-    ],
-    "Details": [
-        "Détails"
-    ],
-    "(missing message)": [
-        "(message manquant)"
-    ],
-    "Error loading commit data": [
-        "Erreur lors du chargement des données du commit"
+    "# Deletions": [
+        "# Suppressions"
     ],
     "# Files Changed": [
         "# Fichiers Modifiés"
@@ -169,110 +25,8 @@
     "# Insertions": [
         "# Insertions"
     ],
-    "# Deletions": [
-        "# Suppressions"
-    ],
-    "Revert changes introduced by this commit": [
-        "Inverser les modifications apportées par ce commit"
-    ],
-    "Discard changes introduced *after* this commit (hard reset)": [
-        "Annuler les modifications introduites * après * cette validation (hard reset)"
-    ],
-    "current": [
-        "actuel"
-    ],
-    "The current branch contains files with uncommitted changes. Please commit or discard these changes before switching to or creating another branch.": [
-        "La branche actuelle contient des fichiers avec des modifications non validées (commits). Veuillez valider ou annuler ces modifications avant de créer ou de passer à une autre branche."
-    ],
-    "Failed to discard changes.": [
-        "Échec de l'annulation des modifications."
-    ],
-    "This reverts commit %1": [
-        "Cela inverse le commit %1"
-    ],
-    "Revert '%1'": [
-        "Inverser %1"
-    ],
-    "Failed to revert changes.": [
-        "Échec de l'inversion des modifications."
-    ],
-    "Successfully reverted changes.": [
-        "Modifications inversées avec succès."
-    ],
-    "Reverting changes...": [
-        "inversion des changements..."
-    ],
-    "Successfully discarded changes.": [
-        "Modifications supprimées avec succès."
-    ],
-    "Discard changes...": [
-        "Supprimer les modifications..."
-    ],
-    "Submit changes": [
-        "Soumettre vos changements"
-    ],
-    "Cancel changes": [
-        "Annuler vos changements"
-    ],
-    "All changes after commit %1 will be gone forever (hard reset). Are you sure?": [
-        "Toutes les modifications après la validation (commit) %1 seront définitivement supprimées (hard reset). Êtes-vous sûr?"
-    ],
-    "These changes will be reverted. Only commit if you're sure you're okay losing these changes.": [
-        "Ces modifications seront inversées. Ne pas commettre que si vous êtes sûr de vouloir perdre ces modifications."
-    ],
-    "Close this dialog": [
-        "Fermer cette boîte de dialogue"
-    ],
-    "Revert Changes": [
-        "Inverser les Changements"
-    ],
-    "Reset Changes": [
-        "Réinitialiser les modifications"
-    ],
-    "The repository contains files with uncommitted changes. Please commit or discard these changes before switching to a tag.": [
-        "Le dépôt contient des fichiers avec des modifications non validées. Veuillez valider ou annuler ces modifications avant de changer à une étiquette."
-    ],
-    "Fail to get the tags.": [
-        "Impossible d'obtenir les étiquettes."
-    ],
-    "Checkout to tag: %1": [
-        "Extrayez l'étiquette: %1"
-    ],
-    "Checkout tags is disabled": [
-        "Extraction des étiquettes sont désactivées"
-    ],
-    "Checking tag out...": [
-        "Extraction de l'étiquette..."
-    ],
-    "Tag checkout.": [
-        "Extraction d'étiquette."
-    ],
-    "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list.": [
-        "L'extension de serveur Git n'est pas disponible. Veuillez vous assurer que vous avez installé l'extension de serveur JupyterLab Git en exécutant: pip install --upgrade jupyterlab-git. Pour confirmer que l'extension de serveur est installée, exécutez: jupyter server extension list."
-    ],
-    "Unable to checkout tag": [
-        "Impossible d'extraire l'étiquette"
-    ],
-    "Please commit, stash, or discard your changes before you checkout tags.": [
-        "Veuillez valider, remiser ou annuler (commit, stash, or discard) vos modifications avant d'extraire des étiquettes."
-    ],
-    " (behind by %1 commits)": [
-        " (en arrière par %1 commits)"
-    ],
-    "Set Up Remotes": [
-        "Mise en Place d'un Dépôt"
-    ],
-    "Git Documentation": [
-        "Documentation Git"
-    ],
-    "Are you sure you want to permanently discard changes to ": [
-        "Êtes-vous sûr de vouloir supprimer définitivement les modifications apportées à "
-    ],
-    " a Git repository. To use Git, navigate to a local repository, initialize a repository here, or clone an existing repository.": [
-        " un dépôt Git. Pour utiliser Git, accédez à un dépôt local, initialisez un nouveau dépôt ici ou clonez un dépôt existant."
-    ],
-    "Pull latest changes": [
-        "Tirer les dernières modifications"
+    "(missing message)": [
+        "(message manquant)"
     ],
     "Add a Git remote repository": [
         "Ajouter un dépôt Git distant"
@@ -289,17 +43,35 @@
     "adding files...": [
         "ajoutant les fichiers..."
     ],
+    "All changes after commit %1 will be gone forever (hard reset). Are you sure?": [
+        "Toutes les modifications après la validation (commit) %1 seront définitivement supprimées (hard reset). Êtes-vous sûr?"
+    ],
     "Are you sure you want to ignore all %1 files within this git repository?": [
         "Êtes-vous sûr de vouloir ignorer tous les fichiers %1 de ce dépôt Git?"
     ],
     "Are you sure you want to permanently delete": [
         "Êtes-vous sûr de vouloir supprimer définitivement"
     ],
+    "Are you sure you want to permanently delete the branch ": [
+        "Êtes-vous sûr de vouloir supprimer définitivement la branche "
+    ],
+    "Are you sure you want to permanently discard changes to ": [
+        "Êtes-vous sûr de vouloir supprimer définitivement les modifications apportées à "
+    ],
     "Are you sure you want to permanently discard changes to all files? This action cannot be undone.": [
         "Êtes-vous sûr de vouloir supprimer les modifications apportées à tous les fichiers de manière définitive? Cette action ne peut pas être annulée."
     ],
+    "Branch created.": [
+        "La branche a été créée."
+    ],
     "Branches": [
         "Branches"
+    ],
+    "Cancel": [
+        "Annuler"
+    ],
+    "Cancel changes": [
+        "Annuler vos changements"
     ],
     "Cancel pull merge conflict": [
         "Annuler le conflit de fusion de pull"
@@ -312,6 +84,18 @@
     ],
     "checking out...": [
         "extraire..."
+    ],
+    "Checking tag out...": [
+        "Extraction de l'étiquette..."
+    ],
+    "Checkout tags is disabled": [
+        "Extraction des étiquettes sont désactivées"
+    ],
+    "Checkout to tag: %1": [
+        "Extrayez l'étiquette: %1"
+    ],
+    "Clear the current filter": [
+        "Effacer le filtre actuel"
     ],
     "CLONE": [
         "CLONER"
@@ -331,6 +115,15 @@
     "Cloning...": [
         "Clonage en cours..."
     ],
+    "Close this dialog": [
+        "Fermer cette boîte de dialogue"
+    ],
+    "Close this dialog without creating a new branch": [
+        "Fermez cette boîte de dialogue sans créer de nouvelle branche"
+    ],
+    "Commit": [
+        "Commit"
+    ],
     "Committed changes.": [
         "Changements commits."
     ],
@@ -343,8 +136,32 @@
     "Copied": [
         "Copié"
     ],
+    "Create a Branch": [
+        "Créer une Branche"
+    ],
+    "Create a new branch": [
+        "Créer une nouvelle branche"
+    ],
+    "Create a new branch based on: %1": [
+        "Créer une nouvelle branche basée sur: %1"
+    ],
     "Create an empty Git repository or reinitialize an existing one": [
         "Créer un référentiel Git vide ou réinitialiser un référentiel existant"
+    ],
+    "Create Branch": [
+        "Créer la Branche"
+    ],
+    "Create branch based on...": [
+        "Créer une branche basée sur..."
+    ],
+    "Creating a new branch is disabled": [
+        "La création d'une nouvelle branche est désactivée"
+    ],
+    "Creating branch...": [
+        "Creation de la branche..."
+    ],
+    "current": [
+        "actuel"
     ],
     "Current Branch": [
         "Branche Actuelle"
@@ -358,8 +175,14 @@
     "Delete": [
         "Supprimer"
     ],
+    "Delete branch": [
+        "Supprimer cette branche"
+    ],
     "Delete File": [
         "Supprimer le Fichier"
+    ],
+    "Delete this branch locally": [
+        "Supprimer cette branche localement"
     ],
     "Delete this file": [
         "Supprimer ce fichier"
@@ -369,6 +192,15 @@
     ],
     "Deleting %1 failed.": [
         "La suppression de %1 a échoué."
+    ],
+    "Description (optional)": [
+        "Description (optionnelle)"
+    ],
+    "Detailed message": [
+        "Message détaillé"
+    ],
+    "Details": [
+        "Détails"
     ],
     "Diff": [
         "Diff"
@@ -388,6 +220,12 @@
     "Disable branch with changes": [
         "Désactiver la branche avec les modifications"
     ],
+    "Disabled: No commit message summary": [
+        "Désactivé: aucun résumé du message de validation"
+    ],
+    "Disabled: No files are staged for commit": [
+        "Désactivé: aucun fichier n'est indexé pour faire un commit"
+    ],
     "Discard": [
         "Abandonner"
     ],
@@ -406,11 +244,20 @@
     "Discard changes": [
         "Annuler les modifications"
     ],
+    "Discard changes introduced *after* this commit (hard reset)": [
+        "Annuler les modifications introduites * après * cette validation (hard reset)"
+    ],
+    "Discard changes...": [
+        "Supprimer les modifications..."
+    ],
     "Discard recent changes of selected file": [
         "Annuler les modifications récentes du fichier sélectionné"
     ],
     "discarding changes...": [
         "supprimer les changements..."
+    ],
+    "Dismiss": [
+        "Ignorer"
     ],
     "DISMISS": [
         "IGNORER"
@@ -430,14 +277,44 @@
     "Encountered an error when pushing changes. Error: ": [
         "Une erreur s'est produite lors du poussage des modifications. Erreur: "
     ],
+    "Enter a branch name": [
+        "Entrer un nom pour la branche"
+    ],
+    "Enter a commit message description": [
+        "Entrez une description du message de validation"
+    ],
+    "Enter a commit message summary (a single line, preferably less than 50 characters)": [
+        "Entrez un résumé du message de validation (une seule ligne, préférablement moins de 50 caractères)"
+    ],
+    "Enter credentials for remote repository": [
+        "Entrez vos informations d’authentification pour le dépôt distant"
+    ],
+    "Enter the Clone URI of the repository": [
+        "Entrez l'URI du dépôt à cloner"
+    ],
+    "Error": [
+        "Erreur"
+    ],
+    "Error loading commit data": [
+        "Erreur lors du chargement des données du commit"
+    ],
     "Error when adding remote repository": [
         "Erreur produite lors de l'ajout d'un dépôt distant"
+    ],
+    "Fail to get the tags.": [
+        "Impossible d'obtenir les étiquettes."
     ],
     "Failed to clone": [
         "Clonage a échoué"
     ],
     "Failed to commit changes.": [
         "Commit des modifications a échoué."
+    ],
+    "Failed to create branch.": [
+        "Création de la branche a échoué."
+    ],
+    "Failed to discard changes.": [
+        "Échec de l'annulation des modifications."
     ],
     "Failed to initialize the Git repository": [
         "L'initialisation du dépôt Git a échoué"
@@ -454,8 +331,20 @@
     "Failed to refresh.": [
         "L'actualisation a échoué."
     ],
+    "Failed to revert changes.": [
+        "Échec de l'inversion des modifications."
+    ],
     "Failed to set your identity. ": [
         "Échoué à définir votre identité. "
+    ],
+    "Failed to switch branch.": [
+        "Échec du changement de branche."
+    ],
+    "Filter": [
+        "Filtrer"
+    ],
+    "Filter branch menu": [
+        "Filtrer le menu de la branche"
     ],
     "git command not found - please ensure you have Git > 2 installed": [
         "Commande git est introuvable - veuillez vous assurer que Git > 2 est installé"
@@ -463,17 +352,23 @@
     "git command version must be > 2; got %1.": [
         "la version de la commande git doit être > 2; obtenu% 1."
     ],
+    "Git credentials required": [
+        "Informations d'identification Git requises"
+    ],
+    "Git Documentation": [
+        "Documentation Git"
+    ],
     "Git Interface": [
         "Interface Git"
     ],
     "Git repository initialized.": [
         "Dépôt Git initialisé."
     ],
+    "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list.": [
+        "L'extension de serveur Git n'est pas disponible. Veuillez vous assurer que vous avez installé l'extension de serveur JupyterLab Git en exécutant: pip install --upgrade jupyterlab-git. Pour confirmer que l'extension de serveur est installée, exécutez: jupyter server extension list."
+    ],
     "Go to Git user interface": [
         "Aller à l'interface utilisateur de Git"
-    ],
-    " Help ": [
-        " Aide "
     ],
     "History": [
         "L'historique"
@@ -502,6 +397,9 @@
     "Ignored": [
         "Ignoré"
     ],
+    "Incorrect username or password.": [
+        "Nom d’utilisateur ou mot de passe incorrect."
+    ],
     "Initialize a Repository": [
         "Initialiser un Dépôt"
     ],
@@ -511,11 +409,20 @@
     "Initializing...": [
         "Initialisation..."
     ],
+    "is not": [
+        "n'est pas"
+    ],
     "Manage branches and tags": [
         "Gérer les branches et étiquettes"
     ],
     "Modified": [
         "Modifié"
+    ],
+    "Name": [
+        "Nom"
+    ],
+    "New Branch": [
+        "Nouvelle Branche"
     ],
     "No remote repository defined": [
         "Aucun dépôt distant défini"
@@ -547,11 +454,20 @@
     "Open this file": [
         "Ouvrir ce fichier"
     ],
+    "Please commit, stash, or discard your changes before you checkout tags.": [
+        "Veuillez valider, remiser ou annuler (commit, stash, or discard) vos modifications avant d'extraire des étiquettes."
+    ],
+    "Please commit, stash, or discard your changes before you switch branches.": [
+        "Veuillez valider, remiser ou annuler vos modifications avant de changer de branche."
+    ],
     "Publish branch": [
         "Publier la branche"
     ],
     "Pull from Remote": [
         "Tirer Depuis un Dépôt Distant"
+    ],
+    "Pull latest changes": [
+        "Tirer les dernières modifications"
     ],
     "Pull latest code from remote repository": [
         "Tirer le dernier code du dépôt distant"
@@ -595,8 +511,23 @@
     "Renamed": [
         "Renommé"
     ],
+    "Reset Changes": [
+        "Réinitialiser les modifications"
+    ],
     "resetting changes...": [
         "réinitialiser les changements..."
+    ],
+    "Revert '%1'": [
+        "Inverser %1"
+    ],
+    "Revert Changes": [
+        "Inverser les Changements"
+    ],
+    "Revert changes introduced by this commit": [
+        "Inverser les modifications apportées par ce commit"
+    ],
+    "Reverting changes...": [
+        "inversion des changements..."
     ],
     "reverting changes...": [
         "annuler les modifications..."
@@ -631,6 +562,12 @@
     "schema\u0004Suspend JupyterLab user interaction until Git commands (e.g., commit, pull, reset, revert) finish executing. Setting this to true helps mitigate potential race conditions leading to data loss, conflicts, and a broken Git history. Unless running a slow network, UI suspension should not interfere with standard workflows. Setting this to false allows for actions to trigger multiple concurrent Git actions.": [
         "Suspendre l'interaction utilisateur de JupyterLab jusqu'à ce que les commandes Git (par exemple, commit, pull, reset, revert) soient exécutées. Définir ceci comme vrai permet d'atténuer les conditions potentielles menant à des pertes de données, des conflits et une histoire de Git cassée. À moins d'exécuter un réseau lent, la suspension de l'interface utilisateur ne devrait pas interférer avec les flux de travail standard. Définir cette valeur à false permet aux actions de déclencher plusieurs actions Git simultanées."
     ],
+    "Set Up Remotes": [
+        "Mise en Place d'un Dépôt"
+    ],
+    "SHOW": [
+        "Afficher"
+    ],
     "Show diff on double click": [
         "Afficher le diff lors d'un double-clic"
     ],
@@ -661,8 +598,14 @@
     "Start tracking selected file": [
         "Commencer à suivre le fichier sélectionné"
     ],
+    "Submit changes": [
+        "Soumettre vos changements"
+    ],
     "Successfully cloned": [
         "Clonage a réussi"
+    ],
+    "Successfully discarded changes.": [
+        "Modifications supprimées avec succès."
     ],
     "Successfully pulled": [
         "Tirage a réussi"
@@ -673,20 +616,62 @@
     "Successfully refreshed.": [
         "L'actualisation a réussi."
     ],
+    "Successfully reverted changes.": [
+        "Modifications inversées avec succès."
+    ],
+    "Summary (%1 to commit)": [
+        "Résumé (%1 pour valider)"
+    ],
+    "Summary (required)": [
+        "Résumé (requis)"
+    ],
     "Suspend user interaction until commands finish": [
         "Suspendre l'interaction de l'utilisateur jusqu'à la fin des commandes"
+    ],
+    "Switch to branch: %1": [
+        "Passer à la branche: %1"
+    ],
+    "Switched branch.": [
+        "Branche changée."
+    ],
+    "Switching branch...": [
+        "Changement de branche..."
+    ],
+    "Switching branches is disabled": [
+        "Le changement de branche est désactivé"
+    ],
+    "Tag checkout.": [
+        "Extraction d'étiquette."
     ],
     "Tags": [
         "Étiquettes"
     ],
+    "The current branch contains files with uncommitted changes. Please commit or discard these changes before switching to or creating another branch.": [
+        "La branche actuelle contient des fichiers avec des modifications non validées (commits). Veuillez valider ou annuler ces modifications avant de créer ou de passer à une autre branche."
+    ],
+    "The current branch. Pick this if you want to build on work done in this branch.": [
+        "La branche actuelle. Choisissez cette option si vous souhaitez vous appuyer sur le travail effectué dans cette branche."
+    ],
+    "The default branch. Pick this if you want to start fresh from the default branch.": [
+        "La branche par défaut. Choisissez ceci si vous voulez repartir de la branche par défaut."
+    ],
+    "The repository contains files with uncommitted changes. Please commit or discard these changes before switching to a tag.": [
+        "Le dépôt contient des fichiers avec des modifications non validées. Veuillez valider ou annuler ces modifications avant de changer à une étiquette."
+    ],
     "The versions of the JupyterLab Git server frontend and backend do not match. `The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. ` Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git": [
         "Les versions du frontend et du backend du serveur JupyterLab Git ne correspondent pas. `L'extension frontend @jupyterlab/git contient la version: %1 tandis que le paquetage Python contient la version %2. `Veuillez installer une version identique du paquetage Python jupyterlab-git et l'extension@jupyterlab/git. Essayez d'exécuter: pip install --upgrade jupyterlab-git"
+    ],
+    "These changes will be reverted. Only commit if you're sure you're okay losing these changes.": [
+        "Ces modifications seront inversées. Ne pas commettre que si vous êtes sûr de vouloir perdre ces modifications."
     ],
     "This action cannot be undone.": [
         "Cette action ne peut pas être annulée."
     ],
     "This file has been deleted!": [
         "Ce fichier a été supprimé!"
+    ],
+    "This reverts commit %1": [
+        "Cela inverse le commit %1"
     ],
     "Track": [
         "Suivre"
@@ -696,6 +681,12 @@
     ],
     "Track this file": [
         "Suivre ce fichier"
+    ],
+    "Unable to checkout tag": [
+        "Impossible d'extraire l'étiquette"
+    ],
+    "Unable to switch branch": [
+        "Impossible de changer de branche"
     ],
     "Unstage": [
         "Désindexer"
@@ -724,6 +715,9 @@
     "View commit history": [
         "Afficher l'historique des commits"
     ],
+    "View file changes": [
+        "Afficher les modifications apportées aux fichiers"
+    ],
     "View tags": [
         "Voir les étiquettes"
     ],
@@ -738,5 +732,8 @@
     ],
     "You are not currently in": [
         "Vous n'êtes pas actuellement dans"
+    ],
+    "Your changes to the following files would be overwritten by switching:": [
+        "Vos modifications apportées aux fichiers suivants seraient écrasées :"
     ]
 }
