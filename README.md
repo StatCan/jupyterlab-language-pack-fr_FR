@@ -1,3 +1,9 @@
-# JupyterLab fr Language Pack
+# JupyterLab fr-FR Language Pack
 
-[![Crowdin](https://badges.crowdin.net/jupyterlab/localized.svg)](https://crowdin.com/project/jupyterlab)
+
+## Install
+
+```
+pip install git+https://github.com/JessicaBarh/jupyterlab-fr_FR.git
+```
+
