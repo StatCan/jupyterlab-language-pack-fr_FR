@@ -1,0 +1,247 @@
+{
+    "": {
+        "domain": "jupyterlab-lsp",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);"
+    },
+    " (current)": [
+        " (courant)"
+    ],
+    " with errors: %1": [
+        "avec des erreurs: %1"
+    ],
+    "%1 at line %2": [
+        "%1 dans la ligne %2"
+    ],
+    "%1 in cell %2 at line %3": [
+        "%1 dans la cellule %2 de la ligne %3"
+    ],
+    "%1 to %2": [
+        "%1 à %2"
+    ],
+    "%1/%2 virtual document connected (%3 connections; waiting for: %4)": [
+        "%1/%2 document virtuel connecté (%3 connexions; en attente de: %4"
+    ],
+    "%1/%2 virtual documents connected (%3 connections; waiting for: %4)": [
+        "%1/%2 documents virtuels connectés (%3 connexions; en attente de: %4"
+    ],
+    "Available": [
+        "Disponible"
+    ],
+    "Cancel": [
+        "Annuler"
+    ],
+    "Cell": [
+        "Cellule"
+    ],
+    "Code": [
+        "Code"
+    ],
+    "connected": [
+        "connecté"
+    ],
+    "Connecting...": [
+        "Connexion en cours..."
+    ],
+    "Copy diagnostics' message": [
+        "Copier le message de diagnostic"
+    ],
+    "Could not rename %1 - consult the language server documentation": [
+        "Impossible de renommer %1 - consultez la documentation du serveur de langue"
+    ],
+    "Diagnostics Panel": [
+        "Panneau Diagnostic"
+    ],
+    "Display the completer themes": [
+        "Afficher les thèmes de complétion"
+    ],
+    "Documentation:": [
+        "Documentation"
+    ],
+    "Edit anyway": [
+        "Modifiez-le quand même"
+    ],
+    "Edit external file?": [
+        "Modifier le fichier externe?"
+    ],
+    "Fully connected & initialized (%1 virtual document)": [
+        "Entièrement connecté et initialisé (% 1 document virtuel)"
+    ],
+    "Fully connected & initialized (%1 virtual documents)": [
+        "Entièrement connecté et initialisé (%1 documents virtuels)"
+    ],
+    "Fully connected, but %1/%2 virtual document stuck uninitialized: %3": [
+        "Entièrement connecté, mais %1/%2 document virtuel est bloqué et non initialisé: %3"
+    ],
+    "Fully connected, but %1/%2 virtual documents stuck uninitialized: %3": [
+        "Entièrement connecté, mais %1/%2 documents virtuels sont bloqués et non initialisés: %3"
+    ],
+    "Fully initialized": [
+        "Entièrement Initialisé"
+    ],
+    "Highlight references": [
+        "Mettre en surbrillance les références"
+    ],
+    "Highlight type definition": [
+        "Mettre en surbrillance la définition de type"
+    ],
+    "Ignore diagnostics like this": [
+        "Ignorer les diagnostics comme celui-ci"
+    ],
+    "Ignore diagnostics with \"%1\" code": [
+        "Ignorer les diagnostics avec le code \"%1\""
+    ],
+    "Ignore diagnostics with \"%1\" message": [
+        "Ignorer les diagnostics avec le message \"%1\""
+    ],
+    "Includes dedicated dark mode icons set": [
+        "Comprend un ensemble d'icônes de mode sombre"
+    ],
+    "initialized": [
+        "Initialisé"
+    ],
+    "Initialized (additional servers needed)": [
+        "Initialisé (serveurs supplémentaires nécessaires)"
+    ],
+    "Initializing...": [
+        "Initialisation..."
+    ],
+    "Jump back": [
+        "Revenir en arrière"
+    ],
+    "Jump to definition": [
+        "Sauter à la définition"
+    ],
+    "Jump to location": [
+        "Naviguer vers l'emplacement"
+    ],
+    "Language Servers": [
+        "Serveur de Langue"
+    ],
+    "Licence: ": [
+        "Licence: "
+    ],
+    "Line:Ch": [
+        "Ligne:Ch"
+    ],
+    "LSP Code Intelligence": [
+        "LSP Intelligence du Code"
+    ],
+    "LSP Completer Themes": [
+        "LSP Thèmes de la Saisie Semi-Automatique"
+    ],
+    "LSP Diagnostics": [
+        "LSP Diagnostics"
+    ],
+    "LSP Highlights": [
+        "LSP Surbrillance"
+    ],
+    "LSP Hover tooltip": [
+        "LSP Survoler une info-bulle"
+    ],
+    "LSP Rename": [
+        "LSP Renommer"
+    ],
+    "LSP server extension not found": [
+        "Extension de serveur LSP introuvable"
+    ],
+    "LSP servers": [
+        "serveurs LSP"
+    ],
+    "LSP status": [
+        "état du LSP"
+    ],
+    "Message": [
+        "Message"
+    ],
+    "Missing": [
+        "Manquant"
+    ],
+    "No issues detected, great job!": [
+        "Aucun problème détecté, bon travail!"
+    ],
+    "No jump targets found": [
+        "Aucune destination trouvée"
+    ],
+    "not connected": [
+        "non connecté"
+    ],
+    "not initialized": [
+        "non initialisé"
+    ],
+    "OK": [
+        "OK"
+    ],
+    "Panel columns": [
+        "Colonnes du panneau"
+    ],
+    "Rename": [
+        "Renommer"
+    ],
+    "Rename failed: %1": [
+        "changement de nom a échoué: %1"
+    ],
+    "Rename symbol": [
+        "Renommer ce symbol"
+    ],
+    "Rename to": [
+        "Renommer à"
+    ],
+    "Renamed %1": [
+        "Renommé %1"
+    ],
+    "Renamed %1 in %2 cell": [
+        "Renommé %1 dans %2 cellule"
+    ],
+    "Renamed %1 in %2 cells": [
+        "Renommé %1 en %2 cellules"
+    ],
+    "Renamed %1 in %2 place": [
+        "Renommé %1 dans %2 endroit"
+    ],
+    "Renamed %1 in %2 places": [
+        "Renommé %1 en %2 endroits"
+    ],
+    "Renaming %1 to %2...": [
+        "Renommer %1 à %2..."
+    ],
+    "Running": [
+        "En cours d'exécution"
+    ],
+    "Server extension missing": [
+        "Extension de serveur manquante"
+    ],
+    "Severity": [
+        "Niveaux de Gravité"
+    ],
+    "Show diagnostics panel": [
+        "Afficher le panneau de diagnostic"
+    ],
+    "Source": [
+        "Source"
+    ],
+    "Successfully copied \"%1\" to clipboard": [
+        "\"%1\" copié avec succès dans le presse-papiers"
+    ],
+    "Syntax error(s) prevent rename: %1": [
+        "Erreur(s) de syntaxe empêchent le changement de nom: %1"
+    ],
+    "Syntax highlighting": [
+        "Surbrillance du syntaxe"
+    ],
+    "This file is located outside of the root of the JupyterLab start directory. Do you really wish to edit it?": [
+        "Ce fichier se trouve en dehors du répertoire racine de JupyterLab. êtes-vous sûr de vouloir le modifier?"
+    ],
+    "Virtual Document": [
+        "Document Virtuel"
+    ],
+    "Waiting for documents initialization...": [
+        "En attente de l'initialisation des documents..."
+    ],
+    "Waiting...": [
+        "Chargement en cours..."
+    ],
+    "Your browser protects clipboard from write operations; please copy the message manually": [
+        "Votre navigateur protège le presse-papiers des opérations d'écriture; veuillez copier le message manuellement"
+    ]
+}
