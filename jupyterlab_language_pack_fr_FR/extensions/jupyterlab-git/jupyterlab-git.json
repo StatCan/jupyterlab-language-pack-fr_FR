@@ -430,11 +430,9 @@
     "Ignore": [
         "Ignorer"
     ],
-    "Ignore %1 extension (add to .gitignore)": [
-        "Ignorer l'extension %1 (ajouter à .gitignore)"
-    ],
-    "Ignore %1 extensions (add to .gitignore)": [
-        "Ignorer les extensions %1 (ajouter à .gitignore)"
+    "Ignore %2 extension (add to .gitignore)": [	
+        "Ignorer l'extension %2 (ajouter à .gitignore)",	
+        "Ignorer les extensions %2 (ajouter à .gitignore)"
     ],
     "Ignore file extension": [
         "Ignorer cette extension de fichier"
