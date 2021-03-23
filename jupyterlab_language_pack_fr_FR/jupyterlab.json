@@ -129,6 +129,9 @@
     "Are you sure you want to close \"%1\"?": [
         "Êtes-vous sûr de vouloir fermer \"%1\"?"
     ],
+    "Are you sure you want to close all open tabs?": [
+        "Êtes-vous sûr de vouloir fermer tous les onglets ouverts?"
+    ],
     "Are you sure you want to delete %1": [
         "Êtes-vous sûr de vouloir supprimer %1"
     ],
@@ -288,6 +291,12 @@
     ],
     "Click on a function to see documentation.": [
         "Cliquez sur une fonction pour voir la documentation."
+    ],
+    "Close": [
+        "Fermer"
+    ],
+    "Close All": [
+        "Tout Fermer"
     ],
     "Close All Other Tabs": [
         "Fermer tous les autres onglets"
@@ -470,7 +479,7 @@
         "Supprimer %1"
     ],
     "Delete Cells": [
-        "Supprimer des cellules"
+        "Supprimer les cellules"
     ],
     "Delimiter: ": [
         "Délimiteur: "
@@ -584,7 +593,7 @@
         "Erreur lors du chargement du thème"
     ],
     "Error message:": [
-        "Message d'erreur :"
+        "Message d'erreur :"
     ],
     "Error Registering Plugins": [
         "Erreur lors de l'enregistrement des plugins"
@@ -1610,7 +1619,7 @@
         "Enregistrer votre travail"
     ],
     "Saving %1": [
-        "Sauvegarde de %1"
+        "Sauvegarde - %1"
     ],
     "schema\u0004Add a prefix to localized strings.": [
         "Ajouter un préfixe aux chaînes localisées."
@@ -1632,6 +1641,54 @@
     ],
     "schema\u0004CodeMirror": [
         "CodeMirror"
+    ],
+    "schema\u0004jupyterlab-git settings.": [
+        "paramètres jupyterlab-git."
+    ],
+    "schema\u0004Code Highlights": [
+        "Surbrillance du Code"
+    ],
+    "schema\u0004LSP highlights of the variable under the cursor settings.": [
+        "LSP paramètres du surbrillance de la variable sous le curseur."
+    ],
+    "schema\u0004LSP Completion settings.": [
+        "LSP Paramètres de la saisie semi-automatique."
+    ],
+    "schema\u0004Code Completion": [
+        "Saisie Semi-Automatique de Code"
+    ],
+    "schema\u0004Code Diagnostics": [
+        "Diagnostic de Code"
+    ],
+    "schema\u0004LSP Diagnostics (linter results) settings.": [
+        "LSP Paramètres de diagnostic (résultats de linter)."
+    ],
+    "schema\u0004Code Hover": [
+        "Survol de Code"
+    ],
+    "schema\u0004LSP Hover over the code tooltip settings.": [
+        "LSP Paramètres pour le survol d'une info-bulle de code."
+    ],
+    "schema\u0004Code Jump": [
+        "Navigation du Code"
+    ],
+    "schema\u0004Language Server": [
+        "Serveur de Langue"
+    ],
+    "schema\u0004Language Server Protocol settings.": [
+        "Paramètres du Protocole de Serveur de Langue."
+    ],
+    "schema\u0004LSP Rename settings.": [
+        "LSP Paramètres pour renommer une variable, une fonction ou autre."
+    ],
+    "schema\u0004Code Rename": [
+        "Renommer"
+    ],
+    "schema\u0004Code Syntax": [
+        "Syntaxe du Code"
+    ],
+    "schema\u0004LSP code syntax highlighting settings.": [
+        "LSP Paramètres pour la surbrillance syntaxique."
     ],
     "schema\u0004Command Palette": [
         "Palette de commandes"
@@ -2114,7 +2171,7 @@
         "ÉTEINDRE"
     ],
     "Shut Down All": [
-        "Tout arrêter"
+        "Tout Arrêter"
     ],
     "Shut down all kernels?": [
         "Arrêter tous les noyaux?"
