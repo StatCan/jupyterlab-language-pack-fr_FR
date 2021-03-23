@@ -19,11 +19,9 @@
     "%1 to %2": [
         "%1 à %2"
     ],
-    "%1/%2 virtual document connected (%3 connections; waiting for: %4)": [
-        "%1/%2 document virtuel connecté (%3 connexions; en attente de: %4"
-    ],
-    "%1/%2 virtual documents connected (%3 connections; waiting for: %4)": [
-        "%1/%2 documents virtuels connectés (%3 connexions; en attente de: %4"
+    "%2/%3 virtual document connected (%4 connections; waiting for: %5)": [
+        "%2/%3 document virtuel connecté (%4 connexions; en attente de: %5",
+        "%2/%3 documents virtuels connectés (%4 connexions; en attente de: %5"
     ],
     "Available": [
         "Disponible"
@@ -64,17 +62,13 @@
     "Edit external file?": [
         "Modifier le fichier externe?"
     ],
-    "Fully connected & initialized (%1 virtual document)": [
-        "Entièrement connecté et initialisé (% 1 document virtuel)"
+    "Fully connected & initialized (%2 virtual document)": [
+        "Entièrement connecté et initialisé (%2 document virtuel)",
+        "Entièrement connecté et initialisé (%2 documents virtuels)"
     ],
-    "Fully connected & initialized (%1 virtual documents)": [
-        "Entièrement connecté et initialisé (%1 documents virtuels)"
-    ],
-    "Fully connected, but %1/%2 virtual document stuck uninitialized: %3": [
-        "Entièrement connecté, mais %1/%2 document virtuel est bloqué et non initialisé: %3"
-    ],
-    "Fully connected, but %1/%2 virtual documents stuck uninitialized: %3": [
-        "Entièrement connecté, mais %1/%2 documents virtuels sont bloqués et non initialisés: %3"
+    "Fully connected, but %2/%3 virtual document stuck uninitialized: %4": [
+        "Entièrement connecté, mais %2/%3 document virtuel est bloqué et non initialisé: %4",
+        "Entièrement connecté, mais %2/%3 documents virtuels sont bloqués et non initialisés: %4"
     ],
     "Fully initialized": [
         "Entièrement Initialisé"
@@ -190,17 +184,13 @@
     "Renamed %1": [
         "Renommé %1"
     ],
-    "Renamed %1 in %2 cell": [
-        "Renommé %1 dans %2 cellule"
+    "Renamed %2 in %3 cell": [
+        "Renommé %2 dans %3 cellule",
+        "Renommé %2 en %3 cellules"        
     ],
-    "Renamed %1 in %2 cells": [
-        "Renommé %1 en %2 cellules"
-    ],
-    "Renamed %1 in %2 place": [
-        "Renommé %1 dans %2 endroit"
-    ],
-    "Renamed %1 in %2 places": [
-        "Renommé %1 en %2 endroits"
+    "Renamed %2 in %3 place": [
+        "Renommé %2 dans %3 endroit",
+        "Renommé %2 en %3 endroits"
     ],
     "Renaming %1 to %2...": [
         "Renommer %1 à %2..."
