@@ -62,6 +62,9 @@
     "Edit external file?": [
         "Modifier le fichier externe?"
     ],
+    "Error": [
+        "Erreur"
+    ],
     "Fully connected & initialized (%2 virtual document)": [
         "Entièrement connecté et initialisé (%2 document virtuel)",
         "Entièrement connecté et initialisé (%2 documents virtuels)"
@@ -79,6 +82,9 @@
     "Highlight type definition": [
         "Mettre en surbrillance la définition de type"
     ],
+    "Hint": [
+        "Indice"
+    ],
     "Ignore diagnostics like this": [
         "Ignorer les diagnostics comme celui-ci"
     ],
@@ -90,6 +96,9 @@
     ],
     "Includes dedicated dark mode icons set": [
         "Comprend un ensemble d'icônes de mode sombre"
+    ],
+    "Information": [
+        "Information"
     ],
     "initialized": [
         "Initialisé"
@@ -186,7 +195,7 @@
     ],
     "Renamed %2 in %3 cell": [
         "Renommé %2 dans %3 cellule",
-        "Renommé %2 en %3 cellules"        
+        "Renommé %2 en %3 cellules"
     ],
     "Renamed %2 in %3 place": [
         "Renommé %2 dans %3 endroit",
@@ -230,6 +239,9 @@
     ],
     "Waiting...": [
         "Chargement en cours..."
+    ],
+    "Warning": [
+        "Avertissement"
     ],
     "Your browser protects clipboard from write operations; please copy the message manually": [
         "Votre navigateur protège le presse-papiers des opérations d'écriture; veuillez copier le message manuellement"
