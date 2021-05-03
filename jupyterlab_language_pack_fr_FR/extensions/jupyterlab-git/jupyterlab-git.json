@@ -59,10 +59,10 @@
         "Ajouter un dépôt Git distant"
     ],
     "Add a remote repository": [
-        "Ajouter un Dépôt distant"
+        "Ajouter un dépôt distant"
     ],
     "Add Remote Repository": [
-        "Ajouter un Dépôt Distant"
+        "Ajouter un dépôt Distant"
     ],
     "adding files...": [
         "ajoutant les fichiers..."
@@ -82,14 +82,20 @@
     "Are you sure you want to permanently delete the branch ": [
         "Êtes-vous sûr de vouloir supprimer définitivement la branche "
     ],
+    "Are you sure you want to permanently delete the following files? This action cannot be undone.": [
+        "Êtes-vous sûr de vouloir supprimer définitivement les fichiers suivants? Cette action est irréversible."
+    ],
     "Are you sure you want to permanently discard changes to ": [
         "Êtes-vous sûr de vouloir supprimer définitivement les modifications apportées à "
     ],
     "Are you sure you want to permanently discard changes to %1? This action cannot be undone.": [
-        "Êtes-vous sûr de vouloir supprimer les modifications apportées à %1 de manière définitive? cette action n'est pas réversible."
+        "Êtes-vous sûr de vouloir supprimer les modifications apportées à %1 de manière définitive? Cette action n'est pas réversible."
     ],
     "Are you sure you want to permanently discard changes to all files? This action cannot be undone.": [
         "Êtes-vous sûr de vouloir supprimer les modifications apportées à tous les fichiers de manière définitive? Cette action n'est pas réversible."
+    ],
+    "Are you sure you want to permanently discard changes to the following files? This action cannot be undone": [
+        "Êtes-vous sûr de vouloir supprimer définitivement les modifications aux fichiers suivants? Cette action ne peut pas être annulée. Cette action n'est pas réversible."
     ],
     "Branch created.": [
         "La branche a été créée."
@@ -134,10 +140,10 @@
         "CLONER"
     ],
     "Clone a repo": [
-        "Cloner un Dépôt"
+        "Cloner un dépôt"
     ],
     "Clone a Repository": [
-        "Cloner un Dépôt"
+        "Cloner un dépôt"
     ],
     "Clone a repository from a URL": [
         "Cloner un dépôt à partir d'un URL"
@@ -156,6 +162,9 @@
     ],
     "Commit": [
         "Valider"
+    ],
+    "Commit and Push": [
+        "Valider et pousser"
     ],
     "Commit from the Commit Box": [
         "Valider depuis la boîte de validation"
@@ -212,10 +221,10 @@
         "Supprimer cette branche"
     ],
     "Delete File": [
-        "Supprimer le Fichier"
+        "Supprimer le fichier"
     ],
     "Delete Files": [
-        "Supprimer ces Fichiers"
+        "Supprimer ces fichiers"
     ],
     "Delete these files": [
         "Supprimer ces fichiers"
@@ -245,13 +254,13 @@
         "Diff n'est pas pris en charge pour les fichiers %1."
     ],
     "Diff Not Supported": [
-        "Diff n'est pas pris en charge"
+        "Diff non pris en charge"
     ],
     "Diff selected file": [
-        "Afficher les différences du fichier sélectionné"
+        "Diff le fichier sélectionné"
     ],
     "Diff selected files": [
-        "Afficher les différences des fichiers sélectionnés"
+        "Diff les fichiers sélectionnés"
     ],
     "Diff this file": [
         "Diff ce fichier"
@@ -302,10 +311,13 @@
         "supprimer les changements..."
     ],
     "Dismiss": [
-        "Ignorer"
+        "Rejeter"
     ],
     "DISMISS": [
-        "IGNORER"
+        "REJETER"
+    ],
+    "Display a file diff.": [
+        "Afficher le diff d'un fichier."
     ],
     "Display Git status updates": [
         "Afficher les mises à jour du statut de Git"
@@ -335,7 +347,7 @@
         "Entrez vos informations d’authentification pour le dépôt distant"
     ],
     "Enter the Clone URI of the repository": [
-        "Entrez l'URI du dépôt à cloner"
+        "Entrez l'URI de clonage du dépôt"
     ],
     "Error": [
         "Erreur"
@@ -348,6 +360,9 @@
     ],
     "Fail to get the tags.": [
         "Impossible d'obtenir les étiquettes."
+    ],
+    "Failed to checkout tag.": [
+        "Impossible d'extraire l'étiquette."
     ],
     "Failed to clone": [
         "Clonage a échoué"
@@ -365,7 +380,7 @@
         "L'initialisation du dépôt Git a échoué"
     ],
     "Failed to load the jupyterlab-git server extension": [
-        "Échec du chargement de l'extension de serveur jupyterlab-git"
+        "Impossible de charger l'extension de serveur jupyterlab-git"
     ],
     "Failed to pull": [
         "Tirage a échoué"
@@ -398,7 +413,7 @@
         "Commande git est introuvable - veuillez vous assurer que Git > 2 est installé"
     ],
     "git command version must be > 2; got %1.": [
-        "la version de la commande git doit être > 2; obtenu% 1."
+        "la version de la commande git doit être > 2; obtenu %1."
     ],
     "Git credentials required": [
         "Informations d'identification Git requises"
@@ -456,7 +471,7 @@
         "Nom d’utilisateur ou mot de passe incorrect."
     ],
     "Initialize a Repository": [
-        "Initialiser un Dépôt"
+        "Initialiser un dépôt"
     ],
     "initializing repository...": [
         "initialisation du dépôt..."
@@ -492,25 +507,28 @@
         "Ouvrir .gitignore"
     ],
     "Open a New Terminal to the Git Repository": [
-        "Ouvrez un Nouveau Terminal dans le Dépôt Git"
+        "Ouvrez un nouveau terminal dans le dépôt Git"
     ],
     "Open File Failed": [
         "L'ouverture du fichier a échoué"
     ],
     "Open Git Repository in Terminal": [
-        "Ouvrir Dépôt Git dans un Terminal"
+        "Ouvrir dépôt Git dans un terminal"
     ],
     "Open selected file": [
-        "ouvrir le fichier sélectionné"
+        "Ouvrir le fichier sélectionné"
     ],
     "Open selected files": [
-        "ouvrir les fichiers sélectionnés"
+        "Ouvrir les fichiers sélectionnés"
     ],
     "Open the FileBrowser": [
         "Ouvrir le FileBrowser"
     ],
     "Open this file": [
         "Ouvrir ce fichier"
+    ],
+    "password / personal access token": [
+        "mot de passe / jeton d'accès personnel"
     ],
     "Please commit, stash, or discard your changes before you checkout tags.": [
         "Veuillez valider, remiser ou annuler (commit, stash, or discard) vos modifications avant d'extraire des étiquettes."
@@ -522,7 +540,7 @@
         "Publier la branche"
     ],
     "Pull from Remote": [
-        "Tirer Depuis un Dépôt Distant"
+        "Tirer depuis un dépôt distant"
     ],
     "Pull latest changes": [
         "Tirer les dernières modifications"
@@ -543,13 +561,19 @@
         "Pousser les modifications commits"
     ],
     "Push to Remote": [
-        "Pousser Vers un Dépôt Distant"
+        "Pousser vers un dépôt distant"
     ],
     "pushing changes...": [
         "pousser les modifications..."
     ],
     "Pushing...": [
         "Poussage en cours..."
+    ],
+    "Refresh": [
+        "Actualiser"
+    ],
+    "Refresh diff widget": [
+        "Actualiser le widget de diff"
     ],
     "Refresh interval": [
         "Fréquence d'actualisation"
@@ -615,10 +639,13 @@
         "Suspendre l'interaction utilisateur de JupyterLab jusqu'à ce que les commandes Git (par exemple, commit, pull, reset, revert) soient exécutées. Définir ceci comme vrai permet d'atténuer les conditions potentielles menant à des pertes de données, des conflits et une histoire de Git cassée. À moins d'exécuter un réseau lent, la suspension de l'interface utilisateur ne devrait pas interférer avec les flux de travail standard. Définir cette valeur à false permet aux actions de déclencher plusieurs actions Git simultanées."
     ],
     "Set Up Remotes": [
-        "Mise en Place d'un Dépôt"
+        "Mise en place d'un dépôt"
     ],
     "SHOW": [
-        "Afficher"
+        "AFFICHER"
+    ],
+    "Show Diff": [
+        "Afficher le diff"
     ],
     "Show diff on double click": [
         "Afficher le diff lors d'un double-clic"
@@ -666,7 +693,7 @@
         "Soumettre vos changements"
     ],
     "Submit the commit using the summary and description from commit box": [
-        "Soumettez le commit en utilisant le résumé et la description de la boîte de validation"
+        "Soumettre le commit en utilisant le résumé et la description de la boîte de validation"
     ],
     "Successfully cloned": [
         "Clonage a réussi"
@@ -772,6 +799,9 @@
     ],
     "Untracked": [
         "Non suivi(s)"
+    ],
+    "username": [
+        "nom d'utilisateur"
     ],
     "View branches": [
         "Voir les branches"
