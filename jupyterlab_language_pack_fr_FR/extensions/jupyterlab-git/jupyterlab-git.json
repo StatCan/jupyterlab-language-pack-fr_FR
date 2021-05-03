@@ -59,10 +59,10 @@
         "Ajouter un dépôt Git distant"
     ],
     "Add a remote repository": [
-        "Ajouter un Dépôt distant"
+        "Ajouter un dépôt distant"
     ],
     "Add Remote Repository": [
-        "Ajouter un Dépôt Distant"
+        "Ajouter un dépôt Distant"
     ],
     "adding files...": [
         "ajoutant les fichiers..."
@@ -140,10 +140,10 @@
         "CLONER"
     ],
     "Clone a repo": [
-        "Cloner un Dépôt"
+        "Cloner un dépôt"
     ],
     "Clone a Repository": [
-        "Cloner un Dépôt"
+        "Cloner un dépôt"
     ],
     "Clone a repository from a URL": [
         "Cloner un dépôt à partir d'un URL"
@@ -471,7 +471,7 @@
         "Nom d’utilisateur ou mot de passe incorrect."
     ],
     "Initialize a Repository": [
-        "Initialiser un Dépôt"
+        "Initialiser un dépôt"
     ],
     "initializing repository...": [
         "initialisation du dépôt..."
@@ -507,13 +507,13 @@
         "Ouvrir .gitignore"
     ],
     "Open a New Terminal to the Git Repository": [
-        "Ouvrez un Nouveau Terminal dans le Dépôt Git"
+        "Ouvrez un nouveau terminal dans le dépôt Git"
     ],
     "Open File Failed": [
         "L'ouverture du fichier a échoué"
     ],
     "Open Git Repository in Terminal": [
-        "Ouvrir Dépôt Git dans un Terminal"
+        "Ouvrir dépôt Git dans un terminal"
     ],
     "Open selected file": [
         "Ouvrir le fichier sélectionné"
@@ -540,7 +540,7 @@
         "Publier la branche"
     ],
     "Pull from Remote": [
-        "Tirer Depuis un Dépôt Distant"
+        "Tirer depuis un dépôt distant"
     ],
     "Pull latest changes": [
         "Tirer les dernières modifications"
@@ -561,7 +561,7 @@
         "Pousser les modifications commits"
     ],
     "Push to Remote": [
-        "Pousser Vers un Dépôt Distant"
+        "Pousser vers un dépôt distant"
     ],
     "pushing changes...": [
         "pousser les modifications..."
@@ -639,7 +639,7 @@
         "Suspendre l'interaction utilisateur de JupyterLab jusqu'à ce que les commandes Git (par exemple, commit, pull, reset, revert) soient exécutées. Définir ceci comme vrai permet d'atténuer les conditions potentielles menant à des pertes de données, des conflits et une histoire de Git cassée. À moins d'exécuter un réseau lent, la suspension de l'interface utilisateur ne devrait pas interférer avec les flux de travail standard. Définir cette valeur à false permet aux actions de déclencher plusieurs actions Git simultanées."
     ],
     "Set Up Remotes": [
-        "Mise en Place d'un Dépôt"
+        "Mise en place d'un dépôt"
     ],
     "SHOW": [
         "AFFICHER"
